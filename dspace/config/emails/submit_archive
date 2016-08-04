@@ -1,0 +1,11 @@
+#Item Archived email message
+# {0}  Title of submission
+# {1}  Name of collection
+# {2}  handle 
+#
+Subject: SSOAR Submission Approved and Archived
+
+Your full text {0} has been accepted and archived in SSOAR. Please use the following identifier to cite your submission
+{2}
+
+Your SSOAR Team

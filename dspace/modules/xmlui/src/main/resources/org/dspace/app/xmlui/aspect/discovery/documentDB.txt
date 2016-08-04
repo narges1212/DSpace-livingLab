@@ -1,0 +1,97 @@
+CREATE TABLE IF NOT EXISTS query(site_qid SERIAL NOT NULL PRIMARY KEY,qstr varchar(256) NOT NULL UNIQUE, type varchar(10));
+CREATE TABLE IF NOT EXISTS experimental_ranking (id SERIAL NOT NULL PRIMARY KEY,qid varchar(256), data json )
+CREATE TABLE IF NOT EXISTS interleaved_ranking (id SERIAL,sid_qstr varchar(256) NOT NULL PRIMARY KEY, data json )
+
+dspace-living-labs=> SELECT * FROM query;
+ site_qid |       qstr       | type  
+----------+------------------+-------
+        1 | bilingual        | train
+        2 | Käufer           | train
+        3 | collection/50200 | train
+
+
+
+INSERT INTO query (qstr,type) VALUES ('bilingual','train');
+INSERT INTO query (qstr,type) VALUES ('Käufer','train');
+INSERT INTO query (qstr,type) VALUES ('collection/50200','train');
+
+INSERT INTO experimental_ranking (qid,data) VALUES ('actor','{
+    "sid": "2",
+    "doclist": [
+        {
+            "site_docid": "123456789/44093"
+        },
+        {
+            "site_docid": "123456789/44092"
+        },
+        {
+            "site_docid": "123456789/44094"
+        },
+        {
+            "site_docid": "123456789/44096"
+        },
+        {
+            "site_docid": "123456789/44088"
+        },
+        {
+            "site_docid": "123456789/44089"
+        }
+    ]
+}');
+
+INSERT INTO experimental_ranking (qid,data) VALUES ('collection/30301','{
+    "sid": "1",
+    "doclist": [
+        {
+            "site_docid": "123456789/44088"
+        },
+        {
+            "site_docid": "123456789/44090"
+        },
+        {
+            "site_docid": "123456789/44086"
+        },
+        {
+            "site_docid": "123456789/44094"
+        },
+        {
+            "site_docid": "123456789/44093"
+        },
+        {
+            "site_docid": "123456789/44089"
+        },
+        {
+            "site_docid": "123456789/44098"
+        },
+        {
+            "site_docid": "123456789/44099"
+        },
+        {
+            "site_docid": "123456789/44096"
+        },
+        {
+            "site_docid": "123456789/44100"
+        },
+        {
+            "site_docid": "123456789/44097"
+        },
+        {
+            "site_docid": "123456789/44101"
+        },
+        {
+            "site_docid": "123456789/44095"
+        },
+        {
+            "site_docid": "123456789/44085"
+        },
+        {
+            "site_docid": "123456789/44087"
+        },
+        {
+            "site_docid": "123456789/44091"
+        },
+        {
+            "site_docid": "123456789/44092"
+        }
+    ]
+}');

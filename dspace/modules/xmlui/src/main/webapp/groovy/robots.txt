@@ -1,0 +1,12 @@
+def text = """\
+<html>
+<head></head>
+<body>
+<pre>
+User-agent: * 
+Disallow: /
+</pre>
+</body>
+</html>
+"""
+println text

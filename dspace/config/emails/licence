@@ -1,0 +1,24 @@
+#Licence email
+# Parameters: {0} item URN
+#             {1} documentInfo 
+#             {2} authorInfo
+#
+# See org.dspace.core.Email for information on the format of this file.
+#
+Subject: SSOAR Submission Approved and Archived
+
+Thank you for submitting your full text to SSOAR. It has been accepted and archived. Attached you find the Terms of Use Agreement for the following document
+
+{1}
+
+submitted by
+
+
+{2}
+
+Please use the following identifier to cite your submission.
+
+http://nbn-resolving.de/urn:nbn:de:{0}
+
+Your SSOAR Team
+

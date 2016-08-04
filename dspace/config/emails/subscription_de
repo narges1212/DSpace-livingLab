@@ -1,0 +1,11 @@
+﻿# E-mail sent to DSpace users when new items appear in collections they are
+# subscribed to
+#
+# Parameters: {0} is the details of the new collections and items
+# See org.dspace.core.Email for information on the format of this file.
+#
+Subject: SSOAR Abonnement
+
+Für Ihr SSOAR Abonnement der Kollektion {0} steht ein neuer Volltext zur Verfügung. 
+
+Ihr SSOAR-Team	

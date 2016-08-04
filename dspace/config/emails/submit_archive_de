@@ -1,0 +1,11 @@
+#Item Archived email message
+# {0}  Title of submission
+# {1}  Name of collection
+# {2}  handle 
+#
+Subject: Ihr Volltext auf SSOAR freigeschaltet
+
+Ihr Volltext {0} wurde jetzt von SSOAR akzeptiert und freigeschaltet. Bitte nutzen Sie folgende URN, um den Volltext aufzurufen und zu zitieren
+{2}
+
+Ihr SSOAR-Team

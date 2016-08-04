@@ -1,0 +1,21 @@
+<dspace-dc-types>
+  <dc-type>
+    <schema>dc</schema>
+    <element>contributor</element>
+    <qualifier>author</qualifier>
+    <scope_note>Der Autor eines Dokuments</scope_note>
+  </dc-type>
+  <dc-type>
+    <schema>ssoar</schema>
+    <element>contributor</element>
+    <qualifier>email</qualifier>
+    <scope_note>Die Email-Adresse des Einstellenden</scope_note>
+  </dc-type>
+  <dc-type>
+    <schema>internal</schema>
+    <element>identifier</element>
+    <qualifier>thesoz</qualifier>
+    <scope_note>Die ID des verschlagworteten TheSoz-Begriffs</scope_note>
+  </dc-type>
+  
+</dspace-dc-types>

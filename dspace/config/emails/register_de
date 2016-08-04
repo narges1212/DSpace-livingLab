@@ -1,0 +1,14 @@
+# E-mail sent to DSpace users when they register for an account
+# Parameters: {0} is expanded to a special registration URL
+#
+# See org.dspace.core.Email for information on the format of this file.
+#
+Subject: Ihre Registrierung bei SSOAR
+
+Vielen Dank für Ihre Registrierung bei SSOAR. Um Ihre Registrierung zu validieren, folgen Sie bitte dem nachstehenden Link 
+
+{0}
+
+Benötigen Sie Hilfe mit Ihrem Account, schreiben Sie uns bitte eine E-Mail an: admin@ssoar.info
+
+Ihr SSOAR Team

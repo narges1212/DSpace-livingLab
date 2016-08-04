@@ -1,0 +1,259 @@
+{
+    "queries": [
+        {
+            "qstr": "broeskamp",
+            "type": "train",
+            "site_qid": "SSSYnJvZXNrYW1w"
+        },
+        {
+            "qstr": "Naturwissenschaften, Technik(wissenschaften), angewandte Wissenschaften",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi81MDIwMA"
+        },
+        {
+            "qstr": "Social Problems",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8yMDUwMA=="
+        },
+        {
+            "qstr": "Social Sciences",
+            "type": "train",
+            "site_qid": "SSBY29tbXVuaXR5LzEwMDAw"
+        },
+        {
+            "qstr": "fritz schuetze",
+            "type": "train",
+            "site_qid": "SSSZnJpdHogc2NodWV0emU="
+        },
+        {
+            "qstr": "kommunikation@gesellschaft",
+            "type": "train",
+            "site_qid": "SSSa29tbXVuaWthdGlvbkBnZXNlbGxzY2hhZnQ="
+        },
+        {
+            "qstr": "Sociology",
+            "type": "train",
+            "site_qid": "SSBY29tbXVuaXR5LzEwMjAw"
+        },
+        {
+            "qstr": "Education and Pedagogics",
+            "type": "train",
+            "site_qid": "SSBY29tbXVuaXR5LzEwNjAw"
+        },
+        {
+            "qstr": "Economics",
+            "type": "train",
+            "site_qid": "SSBY29tbXVuaXR5LzEwOTAw"
+        },
+        {
+            "qstr": "Basic Research and General Concepts of Demography, History of Demography",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDMwMQ=="
+        },
+        {
+            "qstr": "Population Studies, Sociology of Population",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDMwMw=="
+        },
+        {
+            "qstr": "Judiciary",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi80MDEwMg=="
+        },
+        {
+            "qstr": "Sociology of Developing Countries, Developmental Sociology",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDIxMQ=="
+        },
+        {
+            "qstr": "University Education",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDYxMA=="
+        },
+        {
+            "qstr": "Research, Research Organization",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDYwNA=="
+        },
+        {
+            "qstr": "Labor Market Research",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8yMDEwMQ=="
+        },
+        {
+            "qstr": "Medical Sociology",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDIxNQ=="
+        },
+        {
+            "qstr": "Political System, Constitution, Government",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDUwMw=="
+        },
+        {
+            "qstr": "Social Security",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMTAwMw=="
+        },
+        {
+            "qstr": "Sociology of Communication, Sociology of Language, Sociolinguistics",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDIxNw=="
+        },
+        {
+            "qstr": "Peace and Conflict Research, International Conflicts, Security Policy",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDUwNw=="
+        },
+        {
+            "qstr": "Training, Teaching and Studying, Professional Organizations of Psychology",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDcwMg=="
+        },
+        {
+            "qstr": "Personality Psychology",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDcwNA=="
+        },
+        {
+            "qstr": "Law",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi80MDEwMQ=="
+        },
+        {
+            "qstr": "Social History, Historical Social Research",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8zMDMwMg=="
+        },
+        {
+            "qstr": "Occupational Research, Occupational Sociology",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8yMDEwMg=="
+        },
+
+
+
+        {
+            "qstr": "Administrative Science",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi80MDIwMA=="
+        },
+        {
+            "qstr": "Ecology, Environment",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8yMDkwMA=="
+        },
+        {
+            "qstr": "Gerontology",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8yMDMwMA=="
+        },
+
+        {
+            "qstr": "Technology Assessment",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8yMDgwMA=="
+        },
+        {
+            "qstr": "Leisure Research",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8yMDQwMA=="
+        },
+        {
+            "qstr": "Area Development Planning, Regional Research",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8yMDcwMA=="
+        },
+        {
+            "qstr": "Ethnology, Cultural Anthropology, Ethnosociology",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDQwMA=="
+        },
+        {
+            "qstr": "Migration, Sociology of Migration",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDMwNA=="
+        },
+        {
+            "qstr": "Social Policy",
+            "type": "train",
+            "site_qid": "SSBY29tbXVuaXR5LzExMDAw"
+        },
+        {
+            "qstr": "Labor Market Policy",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8yMDEwMw=="
+        },
+        {
+            "qstr": "Interpersonal Communication",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDgwMw=="
+        },
+        {
+            "qstr": "Special areas of Departmental Policy",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDUwOA=="
+        },
+        {
+            "qstr": "Economic and Social Geography",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDMwNQ=="
+        },
+        {
+            "qstr": "Basic Research, General Concepts and History of Education and Pedagogics",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDYwMQ=="
+        },
+        {
+            "qstr": "Counseling System",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDYxMw=="
+        },
+        {
+            "qstr": "System of Qualification",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDYxMg=="
+        },
+        {
+            "qstr": "Special Types of Education/Schools",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDYwOQ=="
+        },
+        {
+            "qstr": "Elementary Education Sector",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDYwNQ=="
+        },
+        {
+            "qstr": "Vocational Training, Adult Education",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDYxMQ=="
+        },
+        {
+            "qstr": "Secondary Education Sector Lower Level",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDYwNw=="
+        },
+	{
+            "qstr": "Secondary Education Sector Upper Level",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDYwOA=="
+        },
+        {
+            "qstr": "Teachers, Students, Pupils",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDYxNQ=="
+        },
+        {
+            "qstr": "Training, Teaching and Studying, Professional Organizations of Education and Pedagogics",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDYwMg=="
+        },
+        {
+            "qstr": "Macroanalysis of the Education System, Economics of Education, Educational Policy",
+            "type": "train",
+            "site_qid": "SSBY29sbGVjdGlvbi8xMDYwMw=="
+        }
+
+    ]
+}

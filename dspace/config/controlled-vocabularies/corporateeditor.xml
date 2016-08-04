@@ -1,0 +1,660 @@
+<node id='corporateeditor' label=''>
+  <isComposedBy>
+    <node id='1' label='Akademie für Raumforschung und Landesplanung' />
+    <node id='2' label='Akademie für Raumforschung und Landesplanung - Leibniz-Forum für Raumwissenschaften' />
+    <node id='3' label='Akademie für Sozialarbeit und Sozialpolitik e.V.' />
+    <node id='4' label='AKF - Arbeitsgemeinschaft für Katholische Familienbildung e.V. ' />
+    <node id='608' label='Albert-Ludwigs-Universität Freiburg, Fak. für Umwelt und Natürliche Ressourcen, Institut für Forstökonomie' />
+    <node id='499' label='Albert-Ludwigs-Universität Freiburg, Wirtschafts- und Verhaltenswissenschaftliche Fakultät, Institut für Allgemeine Wirtschaftsforschung Abt. Wirtschaftspolitik' />
+    <node id='5' label='Alcatel SEL Stiftung für Kommunikationsforschung' />
+    <node id='6' label='Alfred von Oppenheim-Zentrum für Europäische Zukunftsfragen der Deutschen Gesellschaft für Auswärtige Politik e.V.' />
+    <node id='7' label='Alpen-Adria-Universität Klagenfurt, Institut für Psychologie' />
+    <node id='500' label='Amt für Statistik Berlin-Brandenburg' />
+    <node id='8' label='APIEMS' />
+    <node id='9' label='Arbeiterkammer Wien' />
+    <node id='453' label='Arbeitsgemeinschaft Deutscher Berufsförderungswerke e.V. Berufsförderungswerk Nürnberg gGmbH' />
+    <node id='10' label='Arbeitsgemeinschaft für Erziehungshilfe (AFET) e.V.' />
+    <node id='11' label='Arbeitsgemeinschaft für Pazifische Studien' />
+    <node id='12' label='Arbeitsgemeinschaft Qualifikations-Entwicklungs-Management, Geschäftsstelle der Arbeitsgemeinschaft Betriebliche Weiterbildungsforschung e.V.' />
+    <node id='13' label='Arbeitsgruppe 7 "IKT und Gesundheit" des Nationalen IT-Gipfels' />
+    <node id='14' label='Arbeitsgruppe Bielefelder Soziologen' />
+    <node id='512' label='Arbeitsgruppe Regionale Standards' />
+    <node id='15' label='Arbeitskreis für Internationale Wissenschaftskommunikation' />
+    <node id='16' label='Arbeitskreis Psychologie und Postmoderne am Studiengang Psychologie der Freien Universität Berlin' />
+    <node id='17' label='Arbeitskreis Sozialwissenschaftliche Arbeitsmarktforschung (SAMF) e.V.' />
+    <node id='18' label='ARENA Advanced Research on the Europeanisation of the Nation-State, The Research Council of Norway' />
+    <node id='19' label='Arnold-Bergstraesser-Institut für Kulturwissenschaftliche Forschung e.V.' />
+    <node id='20' label='ASEF, Fundacao Oriente, Universidade Aberta' />
+    <node id='21' label='BAG Mädchenpolitik e.V.' />
+    <node id='22' label='Bamberger Centrum für Empirische Studien (BACES)' />
+    <node id='23' label='BAOBAB, Infoladen Eine Welt e.V.' />
+    <node id='465' label='BAQ Forschungsinstitut Beschäftigung, Arbeit, Qualifikation' />
+    <node id='538' label='Beauftragte der Bundesregierung für Migration, Flüchtlinge und Integration' />
+    <node id='24' label='Berliner Geschichtswerkstatt e.V.' />
+    <node id='25' label='Berliner Zentrum Public Health' />
+    <node id='423' label='Berlin-Institut für Bevölkerung und Entwicklung' />
+    <node id='26' label='Berner Fachhochschule, FB Soziale Arbeit' />
+    <node id='27' label='Bertelsmann Stiftung' />
+    <node id='28' label='Berufsverband Deutscher Psychologinnen und Psychologen (BDP), Sektion Verkehrspsychologie' />
+    <node id='29' label='Bremer Landesbank' />
+    <node id='30' label='British Council' />
+    <node id='31' label='Budapest Institute for Policy Analysis' />
+    <node id='32' label='Bundesakademie für Sicherheitspolitik' />
+    <node id='539' label='Bundesamt für Bauwesen und Raumordnung (BBR)' />
+    <node id='36' label='Bundesamt für Migration, Bern' />
+    <node id='33' label='Bundesamt für Migration und Flüchtlinge' />
+    <node id='34' label='Bundesamt für Migration und Flüchtlinge - Europäisches Migrationsnetzwerk Nationale Kontaktstelle Deutschland (EMN)' />
+    <node id='35' label='Bundesamt für Migration und Flüchtlinge, Informationszentrum Asyl und Migration' />
+    <node id='582' label='Bundesamt für Naturschutz' />
+    <node id='537' label='Bundesamt für Statistik (BFS)' />
+    <node id='37' label='Bundesanstalt für Arbeitsschutz und Arbeitsmedizin' />
+    <node id='554' label='Bundesanstalt für Geowissenschaften und Rohstoffe (BGR)' />
+    <node id='38' label='Bundesasylamt, Wien' />
+    <node id='39' label='Bundesinstitut für Berufsbildung' />
+    <node id='393' label='Bundesinstitut für Berufsbildung (BIBB)' />
+    <node id='40' label='Bundesinstitut für Bevölkerungsforschung (BIB)' />
+    <node id='506' label='Bundesinstitut für Erwachsenenbildung (bifeb)' />
+    <node id='41' label='Bundesinstitut für ostwissenschaftliche und internationale Studien' />
+    <node id='42' label='Bundeskriminalamt' />
+    <node id='43' label='Bundesministerium des Innern' />
+    <node id='612' label='Bundesministerium für Arbeit, Soziales und Konsumentenschutz' />
+    <node id='44' label='Bundesministerium für Arbeit und Soziales' />
+    <node id='45' label='Bundesministerium für Arbeit und Soziales, Nationale Koordinierungsstelle EQUAL und XENOS' />
+    <node id='46' label='Bundesministerium für Arbeit und Sozialordnung' />
+    <node id='47' label='Bundesministerium für Bildung und Forschung' />
+    <node id='48' label='Bundesministerium für Familie, Senioren, Frauen und Jugend' />
+    <node id='49' label='Bundesministerium für Gesundheit und Soziale Sicherung' />
+    <node id='505' label='Bundesministerium für Unterricht, Kunst und Kultur (BMUKK)' />
+    <node id='484' label='Bundesministerium für Wirtschaft und Arbeit' />
+    <node id='665' label='Bundespresseamt (BPA)' />
+    <node id='421' label='Bundesregierung' />
+    <node id='593' label='Bundesverband Frauenberatungsstellen und Frauennotrufe (bff) - Frauen gegen Gewalt e.V.' />
+    <node id='545' label='Bundesweiter Koordinierungskreis gegen Frauenhandel und Gewalt an Frauen im Migrationsprozess - KOK e.V.' />
+    <node id='492' label='Bund für Soziale Verteidigung e.V.' />
+    <node id='519' label='Büro für arbeits- und organisationspsychologische Forschung und Beratung (büro a&amp;o)' />
+    <node id='516' label='Büro für arbeits- und sozialpolitische Studien BASS AG' />
+    <node id='430' label='Camino - Werkstatt für Fortbildung, Praxisbegleitung und Forschung im sozialen Bereich gGmbH' />
+    <node id='440' label='CARE Deutschland-Luxemburg e.V.' />
+    <node id='50' label='CEDEFOP - European Centre for the Development of Vocational Training' />
+    <node id='479' label='Center for Ethnic and Migration Studies at Université de Liège' />
+    <node id='51' label='Center for International Relations' />
+    <node id='52' label='Center for Strategic and International Studies (CSIS)' />
+    <node id='53' label='Center for Strategic Leadership - The United States Army War College' />
+    <node id='598' label='Center for Transylvanian Studies' />
+    <node id='54' label='Central European Forum for Migration and Population Research' />
+    <node id='55' label='Centre for European Policy Studies (CEPS)' />
+    <node id='480' label='Centre for European Studies (CES)' />
+    <node id='417' label='Centre for Maritime Research - MARE' />
+    <node id='56' label='Centre for Research and Policy Making (CRPM)' />
+    <node id='57' label='Centro de Estudios Internacionales para el Desarrollo - CEID' />
+    <node id='58' label='Centro de Estudos Africanos do Instituto de Ciências do Trabalho e da Empresa (CEA-ISCTE)' />
+    <node id='424' label='Centro de Pesquisa Copin, Bissau' />
+    <node id='59' label='Chinese Academy of Social Sciences' />
+    <node id='510' label='CIT-PART Consortium' />
+    <node id='60' label='Collegium Budapest, Institute for Advanced Study' />
+    <node id='61' label='Commission for Defense Attitudes and Security Issues (CIOR)' />
+    <node id='62' label='Commission of the European Communities - Science, Research and Development - FAST (Forecasting and Assessment in Science and Technology) programme' />
+    <node id='63' label='COMPASS Gesellschaft für Informationsmanagement und Projektentwicklung' />
+    <node id='64' label='CONNEX - Network of Excellence' />
+    <node id='65' label='Darmstädter Komitee gegen rechte Gewalt' />
+    <node id='66' label='Defence Academy of the United Kingdom - Conflict Studies Research Centre' />
+    <node id='491' label='Deutsche AIDS-Hilfe e.V.' />
+    <node id='513' label='Deutsche Akademie für Rehabilitation e.V.' />
+    <node id='67' label='Deutsche Akademie für Städtebau und Landesplanung e.V.' />
+    <node id='68' label='Deutsche Gesellschaft für Auswärtige Politik e.V.' />
+    <node id='69' label='Deutsche Gesellschaft für Auswärtige Politik e.V. International Forum on Strategic Thinking' />
+    <node id='502' label='Deutsche Gesellschaft für Hochschuldidaktik (DGHD)' />
+    <node id='70' label='Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH' />
+    <node id='627' label='Deutsche Gesellschaft für Publizistik- und Kommunikationswissenschaft e.V.' />
+    <node id='71' label='Deutsche Gesellschaft für Soziologie (DGS)' />
+    <node id='72' label='Deutsche Gesellschaft für Verhaltenstherapie e.V.' />
+    <node id='73' label='Deutsche Mathematiker-Vereinigung e.V. (DMV)' />
+    <node id='503' label='Deutschen Gesellschaft für Personalführung e. V.' />
+    <node id='77' label='Deutscher Bundesjugendring' />
+    <node id='495' label='Deutscher Gewerkschaftsbund, Bezirk Baden-Württemberg' />
+    <node id='78' label='Deutscher Verein für öffentliche und private Fürsorge e.V.' />
+    <node id='79' label='Deutsches Institut für Entwicklungspolitik gGmbH' />
+    <node id='80' label='Deutsches Institut für Erwachsenenbildung -DIE- e.V. Leibniz-Zentrum für Lebenslanges Lernen' />
+    <node id='410' label='Deutsches Institut für Menschenrechte' />
+    <node id='81' label='Deutsches Institut für Urbanistik gGmbH (Difu)' />
+    <node id='82' label='Deutsches Institut für Wirtschaftsforschung (DIW Berlin)' />
+    <node id='83' label='Deutsches Institut für Wirtschaftsforschung (DIW Berlin), Projektgruppe "Das Sozio-ökonomische Panel"' />
+    <node id='84' label='Deutsches Jugendinstitut e.V.' />
+    <node id='614' label='Deutsches Netzwerk Wirtschaftsethik - EBEN Deutschland e.V.' />
+    <node id='74' label='Deutsche Stiftung Friedensforschung' />
+    <node id='433' label='Deutsche Stiftung Weltbevölkerung' />
+    <node id='425' label='Deutsches Zentrum für Altersfragen' />
+    <node id='75' label='Deutsche Vereinigung für Sozialwissenschaftliche Arbeitsmarktforschung (SAMF) e.V.' />
+    <node id='76' label='Deutsche Vereinigung für Sportwissenschaft e.V.' />
+    <node id='85' label='Deutsch-Israelischer Verein für Rehabilitation und soziale Eingliederung für behinderte und von Behinderung bedrohte Menschen, Giessen e.V.' />
+    <node id='86' label='DiCV Paderborn' />
+    <node id='87' label='dimap communications GmbH - Beratungsgesellschaft für Kommunikation und Politik mbH' />
+    <node id='473' label='Dr. Bruno Kaltenborn - Wirtschaftsforschung und Politikberatung' />
+    <node id='464' label='Dreilinden gGmbH' />
+    <node id='88' label='Duale Hochschule Baden-Württemberg Ravensburg' />
+    <node id='89' label='Düsseldorfer Institut für Außen- und Sicherheitspolitik e.V.' />
+    <node id='528' label='Eidgenössisches Büro für die Gleichstellung von Frau und Mann EBG' />
+    <node id='547' label='Eidgenössisches Département des Innern (EDI) Bundesamt für Gesundheit (BAG)' />
+    <node id='543' label='Eidgenössisches Département des Innern (EDI) Bundesamt für Sozialversicherung (BSV)' />
+    <node id='572' label='Eidgenössisches Département des Innern (EDI) Bundesamt für Statistik (BfS)' />
+    <node id='571' label='Eidgenössisches Département des Innern (EDI) Bundesamt für Statistik (BfS) Schweizerisches Gesundheitsobservatorium (OBSAN)' />
+    <node id='592' label='Eidgenössisches Département des Innern (EDI) Eidgenössische Koordinationskommission für Familienfragen (EKFF)' />
+    <node id='546' label='Eidgenössisches Justiz- und Polizeidepartement (EJPD) Bundesamt für Migration (BFM)' />
+    <node id='90' label='Eidgenössische Technische Hochschule Zürich, NADEL Nachdiplomstudium für Entwicklungsländer' />
+    <node id='567' label='Eine-Welt-Netzwerk Bayern e.V.' />
+    <node id='497' label='EMES Network' />
+    <node id='438' label='empirica ag Forschung und Beratung' />
+    <node id='91' label='EPLO - European Public Law Organization' />
+    <node id='655' label='Europä​ischen Akademie Bozen (EURAC) Institut für Public Management' />
+    <node id='93' label='europäisches forum für migrationsstudien (efms) Institut an der Universität Bamberg' />
+    <node id='92' label='Europäische Stelle zur Beobachtung von Rassismus und Fremdenfeindlichkeit' />
+    <node id='94' label='Europa-Universität Viadrina, Frankfurter Institut für Transformationsstudien' />
+    <node id='95' label='European Centre for Minority Issues (ECMI)' />
+    <node id='96' label='European Language Resources Association (ELRA)' />
+    <node id='585' label='European Network of National Human Rights Institutions' />
+    <node id='97' label='European Parliament, Directorate-General for External Policies of the Union, Policy Department' />
+    <node id='98' label='European Science Foundation (ESF)' />
+    <node id='99' label='European University Institute' />
+    <node id='411' label='Evangelische Fachhochschule Darmstadt' />
+    <node id='599' label='Evangelische Hochschule Ludwigsburg, Institut für angewandte Forschung (IAF)' />
+    <node id='448' label='Evangelischer Erziehungsverband e.V.' />
+    <node id='100' label='Evangelischer Pressedienst' />
+    <node id='590' label='Expertenkommission Forschung und Innovation (EFI)' />
+    <node id='101' label='Expertenkreis Zukunftsstrategien' />
+    <node id='459' label='Fachhochschule Frankfurt am Main' />
+    <node id='557' label='FaMa - Neue Frankfurter Sozialforschung' />
+    <node id='634' label='Financial University under the Government of the Russian Federation in Omsk' />
+    <node id='450' label='Finanzwissenschaftliches Forschungsinstitut an der Universität zu Köln' />
+    <node id='102' label='Fondation pour la Recherche Stratégique' />
+    <node id='103' label='Fondation Roi Baudouin' />
+    <node id='104' label='Förderkreis für Raum- und Umweltforschung' />
+    <node id='105' label='Forschung - Beratung - Training (FBT), Otterberg' />
+    <node id='106' label='Forschungsgesellschaft für Gerontologie e.V.' />
+    <node id='394' label='Forschungsinstitut Betriebliche Bildung (f-bb) gGmbH' />
+    <node id='107' label='Forschungsinstitut Betriebliche Bildung gGmbH -f-bb-' />
+    <node id='108' label='Forschungsinstitut der Deutschen Gesellschaft für Auswärtige Politik e.V.' />
+    <node id='109' label='Forschungsinstitut für Arbeit, Bildung und Partizipation e.V.' />
+    <node id='110' label='Forschungsinstitut für Bildungs- und Sozialökonomie (FiBS)' />
+    <node id='111' label='Forschungsstelle Osteuropa an der Universität Bremen' />
+    <node id='454' label='Forschungsverbund sozioökonomische Berichterstattung' />
+    <node id='112' label='Forschungsverbund Wohnungslosigkeit und Hilfen in Wohnungsnotfällen' />
+    <node id='667' label='Forschungszentrum Jülich GmbH, Zentralbibliothek' />
+    <node id='113' label='Forschungszentrum Karlsruhe GmbH' />
+    <node id='114' label='Forum Soziale Technikgestaltung' />
+    <node id='609' label='Forum Wissenschaft &amp; Umwelt' />
+    <node id='115' label='Fraunhofer-Institut Arbeitswirtschaft und Organisation (IAO)' />
+    <node id='399' label='Fraunhofer-Institut für Produktionsanlagen und Konstruktionstechnik (IPK)' />
+    <node id='116' label='Fraunhofer-Institut für Systemtechnik und Innovationsforschung (ISI), Karlsruhe' />
+    <node id='530' label='Freiburger Institut für angewandte Sozialwissenschaft (FIFAS) e.V.' />
+    <node id='117' label='Freie Universität Berlin' />
+    <node id='602' label='Freie Universität Berlin, Center for Global Politics' />
+    <node id='118' label='Freie Universität Berlin, FB Erziehungswissenschaft und Psychologie' />
+    <node id='119' label='Freie Universität Berlin, FB Politik- und Sozialwissenschaften, Institut für Soziologie Arbeitsbereich Makrosoziologie' />
+    <node id='466' label='Freie Universität Berlin, FB Politik- und Sozialwissenschaften, Institut für Soziologie, Forschungsgruppe Altern und Lebenslauf (FALL)' />
+    <node id='562' label='Freie Universität Berlin, FB Politik- und Sozialwissenschaften, Institut für Soziologie, VW-Nachwuchsforschergruppe "Sozialraum Europa"' />
+    <node id='561' label='Freie Universität Berlin, FB Politik- und Sozialwissenschaften, Institut für Soziologie, VW-Nachwuchsforschergruppe "Sozialraum Europa" ' />
+    <node id='576' label='Freie Universität Berlin, FB Politik- und Sozialwissenschaften, Otto-Suhr-Institut für Politikwissenschaft, Arbeitsbereich Politische Theorie und Ideengeschichte' />
+    <node id='649' label='Freie Universität Berlin, FB Politik- und Sozialwissenschaften, Otto-Suhr-Institut für Politikwissenschaft, Arbeitsschwerpunkt Friedens- und Konfliktforschung' />
+    <node id='556' label='Freie Universität Berlin, FB Politik- und Sozialwissenschaften, Otto-Suhr-Institut für Politikwissenschaft Arbeitsstelle Internationale Politische Ökonomie' />
+    <node id='558' label='Freie Universität Berlin, FB Politik- und Sozialwissenschaften, Otto-Suhr-Institut für Politikwissenschaft Kolleg-Forschergruppe "The Transformative Power of Europe"' />
+    <node id='120' label='Freie Universität Berlin, Forschungsstelle für Umweltpolitik' />
+    <node id='121' label='Freie Universität Berlin, Forschungszentrum für Umweltpolitik' />
+    <node id='601' label='Freie Universität Berlin, Osteuropa-Institut Abt. Politik' />
+    <node id='643' label='Freie Universität Berlin, Osteuropa-Institut Abt. Soziologie' />
+    <node id='656' label='Freie Universität Berlin, SFB 700 "Governance in Areas of Limited Statehood: New Modes of Governance?"' />
+    <node id='122' label='Freie Universität Berlin, Zentraleinrichtung Hochschulsport' />
+    <node id='123' label='FRG, Forschung Raum und Gesellschaft e.V.' />
+    <node id='126' label='Friedrich-Ebert-Stiftung, Büro Mazedonien' />
+    <node id='127' label='Friedrich-Ebert-Stiftung, Department of Western Industrialised Countries, Division for International Dialogue' />
+    <node id='398' label='Friedrich-Ebert-Stiftung e.V.' />
+    <node id='124' label='Friedrich-Ebert-Stiftung e.V. Abt. Wirtschafts- und Sozialpolitik' />
+    <node id='125' label='Friedrich-Ebert-Stiftung Kroatien' />
+    <node id='559' label='Fundacja Laboratorium Badań i Działań Społecznych "SocLab", Białystok' />
+    <node id='128' label='Gemeinnützige Hertie-Stiftung' />
+    <node id='129' label='Gesamtverband der metallindustriellen Arbeitgeberverbände' />
+    <node id='130' label='Gesellschaft für Angewandte Informationswissenschaft (GAIK) e.V.' />
+    <node id='416' label='Gesellschaft für innovative Sozialforschung und Sozialplanung e.V.' />
+    <node id='494' label='Gesellschaft für Integration, Sozialforschung und Betriebspädagogik gGmbH' />
+    <node id='131' label='Gesellschaft für sozialwissenschaftliche Forschung und Publizistik mbH (GSFP)' />
+    <node id='132' label='Gesellschaft für Sozialwissenschaftliche Frauenforschung e.V.' />
+    <node id='136' label='GESIS-IZ Sozialwissenschaften' />
+    <node id='137' label='GESIS-IZ Sozialwissenschaften Kompetenzzentrum Frauen in Wissenschaft und Forschung (CEWS)' />
+    <node id='133' label='GESIS - Leibniz-Institut für Sozialwissenschaften' />
+    <node id='134' label='GESIS - Leibniz-Institut für Sozialwissenschaften Fachinformation für die Sozialwissenschaften, Kompetenzzentrum Frauen in Wissenschaft und Forschung (CEWS)' />
+    <node id='583' label='GESIS - Leibniz-Institut für Sozialwissenschaften Kompetenzzentrum Frauen in Wissenschaft und Forschung (CEWS)' />
+    <node id='135' label='GESIS Servicestelle Osteuropa' />
+    <node id='138' label='GESIS-ZUMA' />
+    <node id='139' label='Gewerkschaft Erziehung und Wissenschaft' />
+    <node id='140' label='GfA - Gesellschaft für Arbeitsmarktaktivierung' />
+    <node id='141' label='GIB Gesellschaft für Innovationsforschung und Beratung mbH' />
+    <node id='142' label='GIGA German Institute of Global and Area Studies - Leibniz-Institut für Globale und Regionale Studien' />
+    <node id='143' label='GIGA German Institute of Global and Area Studies - Leibniz-Institut für Globale und Regionale Studien, Deutsches Orient-Institut' />
+    <node id='144' label='GIGA German Institute of Global and Area Studies - Leibniz-Institut für Globale und Regionale Studien, Institut für Afrika-Kunde' />
+    <node id='145' label='GIGA German Institute of Global and Area Studies - Leibniz-Institut für Globale und Regionale Studien, Institut für Afrika-Studien' />
+    <node id='146' label='GIGA German Institute of Global and Area Studies - Leibniz-Institut für Globale und Regionale Studien, Institut für Asienkunde' />
+    <node id='147' label='GIGA German Institute of Global and Area Studies - Leibniz-Institut für Globale und Regionale Studien, Institut für Asien-Studien' />
+    <node id='148' label='GIGA German Institute of Global and Area Studies - Leibniz-Institut für Globale und Regionale Studien, Institut für Iberoamerika-Kunde' />
+    <node id='149' label='GIGA German Institute of Global and Area Studies - Leibniz-Institut für Globale und Regionale Studien, Institut für Lateinamerika-Studien' />
+    <node id='150' label='GIGA German Institute of Global and Area Studies - Leibniz-Institut für Globale und Regionale Studien, Institut für Nahost-Studien' />
+    <node id='151' label='GIGA Institut für Afrika-Kunde (IAK)' />
+    <node id='152' label='GIGA Institut für Asienkunde' />
+    <node id='153' label='Göteborg University, Department of Sociology' />
+    <node id='154' label='Great Place to Work Institute' />
+    <node id='155' label='Hamburger Institut für Sozialforschung' />
+    <node id='156' label='Handwerkskammer Hamburg' />
+    <node id='157' label='Hanns-Seidel-Stiftung e.V. Akademie für Politik und Zeitgeschehen' />
+    <node id='158' label='Hans-Böckler-Stiftung' />
+    <node id='159' label='HAP Hochschule für Angewandte Psychologie Zürich' />
+    <node id='160' label='Heinrich-Barth-Institut e.V.' />
+    <node id='409' label='Heinrich-Böll-Stiftung NRW' />
+    <node id='483' label='Helmholtz-Zentrum für Umweltforschung - UFZ' />
+    <node id='161' label='Hertie School of Governance GmbH' />
+    <node id='162' label='Hessische Stiftung Friedens- und Konfliktforschung' />
+    <node id='163' label='HIS Hochschul-Informations-System GmbH' />
+    <node id='447' label='Hochschule Bremen, Fak. Wirtschaftswissenschaften, Institute for Transport and Development' />
+    <node id='517' label='Hochschule Darmstadt, FB Gesellschaftswissenschaften und Soziale Arbeit, Sonderforschungsgruppe Institutionenanalyse (sofia)' />
+    <node id='164' label='Hochschule der Künste Berlin' />
+    <node id='588' label='Hochschule Harz, FB Verwaltungswissenschaften' />
+    <node id='165' label='Hochschule St. Gallen' />
+    <node id='166' label='Hochschulrektorenkonferenz (HRK)' />
+    <node id='167' label='Human Rights Center of the University of Sarajevo' />
+    <node id='168' label='Humboldt-Universität Berlin' />
+    <node id='607' label='Humboldt-Universität Berlin, Department für Agrarökonomie, Fachgebiet Ressourcenökonomie' />
+    <node id='169' label='Humboldt-Universität Berlin, Institut für Wirtschafts- und Sozialwissenschaften des Landbaus, Fachgebiet Ressourcenökonomie' />
+    <node id='170' label='Humboldt-Universität Berlin, Landwirtschaftlich-Gärtnerische Fakultät, Institut für Wirtschafts- und Sozialwissenschaften des Landbaus' />
+    <node id='171' label='Humboldt-Universität Berlin, Philosophische Fakultät I, Institut für Bibliotheks- und Informationswissenschaft' />
+    <node id='172' label='Hungarian Europe Society' />
+    <node id='468' label='ifo Institut für Wirtschaftsforschung e.V. Bereich Sozialpolitik und Arbeitsmärkte' />
+    <node id='173' label='iFQ - Institut für Forschungsinformation und Qualitätssicherung' />
+    <node id='174' label='IfS Institut für Stadtforschung und Strukturpolitik GmbH' />
+    <node id='175' label='IHK Saarland' />
+    <node id='176' label='IMU - Institut für Medienforschung und Urbanistik GmbH' />
+    <node id='177' label='Industriegewerkschaft Metall' />
+    <node id='178' label='INEKO' />
+    <node id='179' label='infas - Institut für Angewandte Sozialwissenschaft GmbH' />
+    <node id='180' label='Informationsstelle Militarisierung e.V.' />
+    <node id='400' label='Informationsstelle Südliches Afrika e.V. (ISSA)' />
+    <node id='181' label='Informationszentrum Afrika e.V. (IZA), Bremen' />
+    <node id='182' label='Informationszentrum Dritte Welt (IZ3W)' />
+    <node id='183' label='Informationszentrum Sozialwissenschaften' />
+    <node id='455' label='Initiative Neue Qualität der Arbeit (INQA)' />
+    <node id='184' label='Institut Arbeit und Technik (IAT)' />
+    <node id='185' label='Institut der deutschen Wirtschaft Köln e.V.' />
+    <node id='429' label='Institut des Rauhen Hauses für Soziale Praxis gGmbH' />
+    <node id='203' label='Institute for Western Affairs' />
+    <node id='204' label='Institute of Electrical and Electronics Engineers, Inc.' />
+    <node id='205' label='Institute of Public Finance, Zagreb' />
+    <node id='635' label='Institute of Scientific Information on Social Sciences of the Russian Academy of Sciences RAN, INION' />
+    <node id='206' label='Institute of Sociology of the Academy of Sciences of the Czech Republic' />
+    <node id='207' label='Institute of Sociology of the National Academy of Sciences of Ukraine' />
+    <node id='186' label='Institut Français des Relations Internationales' />
+    <node id='187' label='Institut für Angewandte Wirtschaftsforschung e.V. (IAW)' />
+    <node id='188' label='Institut für anwendungsorientierte Innovations- und Zukunftsforschung e.V.' />
+    <node id='395' label='Institut für anwendungsorientierte Innovations- und Zukunftsforschung e.V. (IAIZ)' />
+    <node id='189' label='Institut für Arbeitsmarkt- und Berufsforschung der Bundesagentur für Arbeit (IAB)' />
+    <node id='541' label='Institut für Arbeitsmarkt- und Berufsforschung der Bundesagentur für Arbeit (IAB) Forschungsdatenzentrum (FDZ)' />
+    <node id='190' label='Institut für Arbeitsmedizin, Sicherheitstechnik und Ergonomie e.V. (ASER) an der Universität Wuppertal' />
+    <node id='666' label='Institut für Demoskopie Allensbach (IfD)' />
+    <node id='446' label='Institut für empirische Soziologie an der Universität Erlangen-Nürnberg' />
+    <node id='589' label='Institut für Europäische Politik e.V. (IEP)' />
+    <node id='469' label='Institut für Friedensarbeit und Gewaltfreie Konfliktaustragung e.V.' />
+    <node id='426' label='Institut für Gesellschaftspolitik an der Hochschule für Philosophie München' />
+    <node id='191' label='Institut für Höhere Studien (IHS), Wien' />
+    <node id='651' label='Institut für Iberoamerika-Kunde' />
+    <node id='192' label='Institut für Landes- und Stadtentwicklungsforschung und Bauwesen des Landes Nordrhrein-Westfalen (ILS NRW)' />
+    <node id='463' label='Institut für ökologische Betriebswirtschaft e.V. (IÖB)' />
+    <node id='445' label='Institut für praxisorientierte Sozialforschung Erlangen Jena - IPRAS e.V.' />
+    <node id='193' label='Institut für Projektevaluation und sozialwissenschaftliche Datenerhebung' />
+    <node id='437' label='Institut für Qualitätssicherung in Prävention und Rehabilitation (IQPR) GmbH an der Deutschen Sporthochschule Köln' />
+    <node id='194' label='Institut für Rechtspolitik an der Universität Trier' />
+    <node id='467' label='Institut für Schulqualität der Länder Berlin und Brandenburg e.V. (ISQ)' />
+    <node id='404' label='Institut für Sozialarbeit und Sozialpädagogik e.V.' />
+    <node id='195' label='Institut für Sozialforschung (IfS) an der Universität Frankfurt am Main' />
+    <node id='196' label='Institut für Sozialökonomische Strukturanalysen e.V. SÖSTRA' />
+    <node id='419' label='Institut für Sozialpädagogische Forschung Mainz e.V.' />
+    <node id='197' label='Institut für Sozialwissenschaftliche Analysen und Beratung' />
+    <node id='198' label='Institut für sozialwissenschaftliche Analysen und Beratung (ISAB)' />
+    <node id='199' label='Institut für Sozialwissenschaftliche Forschung e.V. ISF München' />
+    <node id='200' label='Institut für Technik der Betriebsführung - Forschungsstelle im Deutschen Handwerksinstitut e.V.' />
+    <node id='555' label='Institut für Wirtschaft, Arbeit und Kultur (IWAK)' />
+    <node id='482' label='Institut für Wirtschaftspolitik an der Universität Köln' />
+    <node id='529' label='Institut für Wirtschaft und Gesellschaft Bonn e.V. (IWG)' />
+    <node id='201' label='Institut für Wissenschaftliche Information (IWI)' />
+    <node id='202' label='Institut für Wohnungswesen, Immobilienwirtschaft, Stadt- und Regionalentwicklung GmbH (InWIS) an der Universität Bochum' />
+    <node id='615' label='Institut Technik - Theologie - Naturwissenschaften (TTN) an der Universität München' />
+    <node id='208' label='Instytut Zachodni' />
+    <node id='544' label='Interdisciplinary Centre for Comparative Research in the Social Sciences (ICCR)' />
+    <node id='486' label='Interdisziplinäre Forschungsgruppe Lokale Ökonomie an der Technischen Universität Berlin' />
+    <node id='209' label='International Academy of Comparative Law' />
+    <node id='210' label='International Centre for Migration Policy Development (ICMPD)' />
+    <node id='212' label='Internationales Institut für Empirische Sozialökonomie gGmbH (INIFES)' />
+    <node id='496' label='International Society for Third-Sector Research (ISTR)' />
+    <node id='211' label='International Urban Planning and Environment Association (IUPE)' />
+    <node id='213' label='ISCTE, Centro de Estudos Africanos' />
+    <node id='214' label='ISG - Institut für Sozialforschung und Gesellschaftspolitik GmbH' />
+    <node id='432' label='ISL Sozialforschung' />
+    <node id='215' label='ISO Institut für Sozialforschung und Sozialwirtschaft e.V.' />
+    <node id='216' label='IuK - Initiative Information und Kommunikation' />
+    <node id='217' label='IZA Forschungsinstitut zur Zukunft der Arbeit GmbH' />
+    <node id='653' label='Jacques Delors Institute' />
+    <node id='218' label='Japanisch-Deutsches Zentrum Berlin' />
+    <node id='412' label='Kalaidos Fachhochschule Schweiz' />
+    <node id='219' label='Katholische Fachhochschule Nordrhein-Westfalen, Abt. Köln' />
+    <node id='220' label='Katholische Fachhochschule Nordrhein-Westfalen, Abt. Köln, Fachbereich Sozialwesen' />
+    <node id='221' label='Katholische Universität Eichstätt, Philosophisch-Pädagogische Fakultät, Fachgebiet Psychologie' />
+    <node id='222' label='Kernforschungszentrum Karlsruhe GmbH, Projektträgerschaft Fertigungstechnik' />
+    <node id='223' label='Kieler internationale ad-hoc Expertengruppe zu Kaliningrad' />
+    <node id='224' label='Klaus Novy Institut e.V. ' />
+    <node id='225' label='Kölner Forum für Internationale Beziehungen und Sicherheitspolitik e.V. (KFIBS)' />
+    <node id='226' label='Kommission der europäischen Gemeinschaften' />
+    <node id='227' label='Kommission der Europäischen Gemeinschaften - Europäische Gemeinschaften für Kohle und Stahl (EGKS)' />
+    <node id='228' label='Kommission der europäischen Gemeinschaften, Generaldirektion Soziale Angelegenheiten' />
+    <node id='229' label='Kommission für die Erforschung des sozialen und politischen Wandels in den neuen Bundesländern e.V. (KSPW)' />
+    <node id='230' label='Koning Boudewijnstichting' />
+    <node id='231' label='Konrad-Adenauer-Stiftung' />
+    <node id='408' label='Kooperationsstelle Wissenschaft-Arbeitswelt im Landesinstitut Sozialforschungsstelle Dortmund' />
+    <node id='402' label='Kooperationsstelle Wissenschaft-Arbeitswelt in der Sozialforschungsstelle der TU Dortmund' />
+    <node id='232' label='Koordinierungskreis Mosambik e.V. (KKM), Bielefeld' />
+    <node id='233' label='Körber-Arbeitsstelle Russland-GUS' />
+    <node id='234' label='Körber-Stiftung' />
+    <node id='235' label='Körber-Zentrum Russland-GUS' />
+    <node id='595' label='Kriminologische Zentralstelle e.V.' />
+    <node id='620' label='Kulturwissenschaftliches Institut Essen (KWI)' />
+    <node id='662' label='Land Baden-Württemberg / Ministerium für Arbeit und Sozialordnung, Familie, Frauen und Senioren' />
+    <node id='418' label='Land Berlin Senator für Gesundheit und Soziales Die Ausländerbeauftragte' />
+    <node id='509' label='Land Brandenburg / Ministerium für Bildung, Jugend und Sport' />
+    <node id='407' label='Landesinstitut Sozialforschungsstelle Dortmund (sfs)' />
+    <node id='240' label='Landesjugendamt Westfalen-Lippe' />
+    <node id='616' label='Landeskommission Berlin gegen Gewalt' />
+    <node id='236' label='Land Hessen / Sozialministerium' />
+    <node id='237' label='Land Nordrhein-Westfalen / Ministerium für Frauen, Jugend, Familie und Gesundheit' />
+    <node id='238' label='Land Nordrhein-Westfalen / Ministerium für Gesundheit, Soziales, Frauen und Familie' />
+    <node id='422' label='Land Rheinland-Pfalz / Ministerium für Arbeit, Soziales, Familie und Gesundheit' />
+    <node id='490' label='Land Rheinland-Pfalz / Ministerium für Arbeit, Soziales und Gesundheit' />
+    <node id='239' label='Land Rheinland-Pfalz / Ministerium für die Gleichstellung von Frau und Mann' />
+    <node id='507' label='Land Rheinland-Pfalz Staatskanzlei Landesbeauftragte für Ausländerfragen' />
+    <node id='476' label='Landtag Rheinland-Pfalz' />
+    <node id='389' label='Leibniz-Institut für Länderkunde e.V. (IfL)' />
+    <node id='470' label='Leibniz-Institut für ökologische Raumentwicklung e.V.' />
+    <node id='241' label='Leibniz-Institut für Regionalentwicklung und Strukturplanung e.V. (IRS)' />
+    <node id='471' label='Leuphana Universität Lüneburg, Institut für Umweltkommunikation' />
+    <node id='242' label='LISA - Linzer Institut für soziale Analysen' />
+    <node id='243' label='London School of Economics and Political Science (LSE) Department of Sociology' />
+    <node id='245' label='Maecenata Institut für Philanthropie und Zivilgesellschaft an der Humboldt-Universität zu Berlin' />
+    <node id='246' label='Max-Planck-Institut für Gesellschaftsforschung' />
+    <node id='247' label='Medica Mondiale e.V.' />
+    <node id='542' label='MenschenRechtsZentrum, Universität Potsdam' />
+    <node id='244' label='M.E.S.A.10, Center for Economic and Social Analyses' />
+    <node id='579' label='México vía Berlín e.V.' />
+    <node id='248' label='Migration Policy Group' />
+    <node id='249' label='Ministério de Solidariedade e Segurança Social' />
+    <node id='250' label='Ministry of Social Affairs, Estonia' />
+    <node id='550' label='M.I.S. TREND Institut für Wirtschafts- und Sozialforschung' />
+    <node id='431' label='Modellprogramm Fortentwicklung des Hilfeplanverfahrens' />
+    <node id='251' label='MOZAIK gemeinnützige Gesellschaft  für interkulturelle Bildungs- und Beratungsangebote mbH' />
+    <node id='477' label='National School of Political Studies and Public Administration of Bucharest' />
+    <node id='586' label='Nürnberger Menschenrechtszentrum' />
+    <node id='642' label='Observatorio de Políticas de Seguridad de la Provincia de Buenos Aires' />
+    <node id='252' label='Observatório Político Sul-Americano' />
+    <node id='253' label='Oesterreichische Nationalbank' />
+    <node id='254' label='Office of Higher Education' />
+    <node id='633' label='Omsk Academy for the Humanities' />
+    <node id='637' label='Omsk Regional State Scientific Library (Alexander Pushkin)' />
+    <node id='632' label='Omsk State Agrarian University' />
+    <node id='636' label='Omsk State Pedagogical University' />
+    <node id='630' label='Omsk State Technical University' />
+    <node id='631' label='Omsk State University' />
+    <node id='255' label='Open Society Institute, Budapest' />
+    <node id='622' label='Österreichische Akademie der Wissenschaften, Kommission für Migrations- und Integrationsforschung (KMI)' />
+    <node id='521' label='Österreichisches Institut für Familienforschung an der Universität Wien' />
+    <node id='600' label='Österreichisches Institut für Internationale Politik (oiip)' />
+    <node id='256' label='Österreichische Werbewissenschaftliche Gesellschaft' />
+    <node id='257' label='OstWestfalenLippe Marketing GmbH' />
+    <node id='258' label='Otto Brenner Stiftung' />
+    <node id='259' label='Pädagogische Hochschule Bern, Gründungsrektorat' />
+    <node id='260' label='Pädagogische Hochschule Freiburg' />
+    <node id='449' label='Pädagogische Hochschule Karlsruhe' />
+    <node id='488' label='Pädagogische Hochschule Ludwigsburg, Fak. für Sonderpädagogik' />
+    <node id='261' label='Pädagogische Hochschule Wallis' />
+    <node id='565' label='pairfam - Das Beziehungs- und Familienpanel' />
+    <node id='551' label='Partnership for Economic Policy (PEP) Network ' />
+    <node id='552' label='Partnership for Economic Policy (PEP) Research Network' />
+    <node id='442' label='Perspektive Berufsabschluss' />
+    <node id='262' label='PIW Progress-Institut für Wirtschaftsforschung GmbH' />
+    <node id='654' label='Policy Paper / Jacques Delors Institute' />
+    <node id='263' label='Politisch-Militärische Gesellschaft e.V.' />
+    <node id='264' label='Pontificia Universidad Javeriana' />
+    <node id='265' label='Presse- und Informationsamt der Bundesregierung' />
+    <node id='266' label='Progres Institute for Social Democracy, Skopje' />
+    <node id='267' label='Projektgruppe Kulturraum Internet' />
+    <node id='268' label='Projektgruppe Soziale Berufe' />
+    <node id='269' label='Projektverbund Öffentlichkeits- und Marketingstrategie demographischer Wandel' />
+    <node id='270' label='Psychonomics AG' />
+    <node id='451' label='QUANTUM e.V. - Arbeitsgemeinschaft für Quantifizierung und Methoden in der historisch-sozialwissenschaftlichen Forschung' />
+    <node id='436' label='Ramboll Management GmbH' />
+    <node id='604' label='Rat für Sozial- und Wirtschaftsdaten (RatSWD)' />
+    <node id='271' label='Rationalisierungs-Kuratorium der Deutschen Wirtschaft (RKW) e.V.' />
+    <node id='272' label='Rationalisierungs-Kuratorium der Deutschen Wirtschaft (RKW) e.V. Abt. Arbeits- und Sozialwirtschaft' />
+    <node id='481' label='Regionale Arbeitsstelle für Bildung, Integration und Demokratie (RAA) Mecklenburg-Vorpommern e. V.' />
+    <node id='273' label='Religionspädagogisches Institut Loccum' />
+    <node id='639' label='Renison University College' />
+    <node id='405' label='Research Training Group SOCLIFE' />
+    <node id='274' label='Rheinisch-Westfälisches Institut für Wirtschaftsforschung e.V. (RWI)' />
+    <node id='661' label='Rheinisch-Westfälische Technische Hochschule Aachen, Philosophische Fakultät, Institut für Politische Wissenschaft' />
+    <node id='660' label='Rheinisch-Westfälische Technische Hochschule Aachen, Philosophische Fakultät, Institut für Politische Wissenschaft ' />
+    <node id='566' label='Rheinisch-Westfälische Technische Hochschule Aachen, Philosophische Fakultät, Institut für Soziologie Lehr- und Forschungsgebiet Methoden der empirischen Sozialforschung' />
+    <node id='564' label='Rhein-Main-Institut e.V.' />
+    <node id='275' label='Rhein-Ruhr-Institut für Sozialforschung und Politikberatung e.V. -RISP- an der Universität Duisburg-Essen' />
+    <node id='390' label='Rhein-Ruhr-Institut für Sozialforschung und Politikberatung e.V. (RISP) an der Universität Duisburg-Essen' />
+    <node id='414' label='Robert Koch Institut' />
+    <node id='597' label='Romanian Academy' />
+    <node id='276' label='Sachverständigenkommission 8. Jugendbericht' />
+    <node id='277' label='Salzburger Landesinstitut für Volkskunde' />
+    <node id='278' label='Schader-Stiftung' />
+    <node id='279' label='Schleswig-Holsteinisches Institut für Friedenswissenschaften (SCHIFF) an der Universität Kiel' />
+    <node id='573' label='Schweizerische Akademie der Geistes- und Sozialwissenschaften (SAGW)' />
+    <node id='626' label='Schweizerischer Gewerkschaftsbund (SGB)' />
+    <node id='591' label='Schweizerischer Nationalfonds zur Förderung der Wissenschaftlichen Forschung' />
+    <node id='625' label='Schweizerisches Gesundheitsobservatorium' />
+    <node id='280' label='Scientific Council for Government Policy' />
+    <node id='281' label='Seismo Verl.' />
+    <node id='282' label='Sinus München - Gesellschaft für Sozialforschung und Marktforschung mbH' />
+    <node id='283' label='Social Science Research Network' />
+    <node id='284' label='Societas Sancti Stephani' />
+    <node id='285' label='SÖSTRA Institut für Sozialökonomische Strukturanalysen GmbH' />
+    <node id='388' label='Sozialforschungsstelle Dortmund (sfs) Zentrale wissenschaftliche Einrichtung der Technischen Universität Dortmund' />
+    <node id='475' label='Sozialpädagogisches Institut im SOS-Kinderdorf e.V.' />
+    <node id='540' label='Sozialraum Europa – Die Entwicklung des territorialen Rahmens sozialpolitisch relevanter Solidarität' />
+    <node id='533' label='Sozialwissenschaftliches Institut (SI) der Evangelischen Kirche in Deutschland (EKD)' />
+    <node id='286' label='Soziologisches Forschungsinstitut an der Universität Göttingen e.V. (SOFI)' />
+    <node id='663' label='Staatliche Pädagogische Universität Pensa' />
+    <node id='287' label='Staatsinstitut für Familienforschung an der Universität Bamberg (ifb)' />
+    <node id='288' label='Stadt Heidelberg, Amt für Chancengleichheit' />
+    <node id='659' label='Stadt Köln, Amt für Stadtentwicklung und Statistik' />
+    <node id='452' label='Stadt Mainz' />
+    <node id='289' label='Stadt Nürnberg, Gesundheitsamt, Abt. Gesundheitsförderung' />
+    <node id='444' label='Stadt Offenbach, Amt für Arbeitsförderung, Statistik und Integration' />
+    <node id='290' label='Statistisches Bundesamt' />
+    <node id='638' label='Statistisches Landesamt Baden-Württemberg' />
+    <node id='291' label='Stiftung Mitarbeit' />
+    <node id='292' label='Stiftung Wissenschaft und Politik -SWP- Deutsches Institut für Internationale Politik und Sicherheit' />
+    <node id='522' label='Stiftung Zentrum für Türkeistudien und Integrationsforschung Institut an der Universität Duisburg-Essen' />
+    <node id='293' label='Streitkräfteamt, Informations- und Medienzentrale der Bundeswehr' />
+    <node id='664' label='swisspeace - Schweizerische Friedensstiftung' />
+    <node id='472' label='systemkonzept - Gesellschaft für Systemforschung und Konzeptentwicklung mbH' />
+    <node id='294' label='Tagwerk e.G.' />
+    <node id='624' label='Tallinn University' />
+    <node id='295' label='Technische Universität Berlin, Fak. VI Planen, Bauen, Umwelt, Institut für Soziologie Fachgebiet Techniksoziologie' />
+    <node id='296' label='Technische Universität Berlin, FB Gesellschafts- und Planungswissenschaften, Institut für Humanwissenschaft in Arbeit und Ausbildung' />
+    <node id='297' label='Technische Universität Berlin, FB Umwelt und Gesellschaft, Institut für Sozialwissenschaften' />
+    <node id='298' label='Technische Universität Berlin, Institut für Psychologie' />
+    <node id='299' label='Technische Universität Berlin, Institut für Sozialwissenschaften, Abt. Psychologie' />
+    <node id='300' label='Technische Universität Berlin, Interdisziplinäres Forschungsprojekt ATLAS (Archiv für Technik, Lebenswelt und Alltagssprache)' />
+    <node id='434' label='Technische Universität Braunschweig, Department Wirtschaftswissenschaften, Institut für Finanzwirtschaft' />
+    <node id='301' label='Technische Universität Braunschweig, FB 10 Erziehungswissenschaften, Seminar für Soziologie und Sozialarbeitswissenschaft Abt. Sozialarbeitswissenschaft' />
+    <node id='302' label='Technische Universität Dortmund, Wirtschafts- und Sozialwissenschaftliche Fakultät, Fachgebiet Soziologie Lehrstuhl Technik und Gesellschaft' />
+    <node id='303' label='Technische Universität Dortmund, Wirtschafts- und Sozialwissenschaftliche Fakultät, Fachgebiet Soziologie Lehrstuhl Wirtschafts- und Industriesoziologie' />
+    <node id='304' label='Technische Universität Dortmund, Wirtschafts- und Sozialwissenschaftliche Fakultät, Fachgebiet Techniksoziologie' />
+    <node id='305' label='Technische Universität Hamburg-Harburg' />
+    <node id='306' label='Technische Universität Hamburg-Harburg, Arbeitsbereich Arbeitswissenschaft' />
+    <node id='307' label='Technische Universität Hamburg-Harburg, Arbeitsbereich Technikbewertung und Technikgestaltung' />
+    <node id='603' label='Technische Universität Hamburg-Harburg, Institut für Technik und Gesellschaft' />
+    <node id='308' label='Technische Universität München, Fak. für Wirtschaftswissenschaften, Lehrstuhl für Wirtschaftslehre des Landbaues' />
+    <node id='485' label='Technologie-Netzwerk Berlin e.V.' />
+    <node id='309' label='The Democracy Ranking of the Quality of Democracy' />
+    <node id='531' label='The Finnish Youth Research Network' />
+    <node id='310' label='The Kiel international ad-hoc group of experts on Kaliningrad' />
+    <node id='403' label='The Netherlands Scientific Council for Government Policy (WRR)' />
+    <node id='487' label='TNS Emnid  Medien- und Sozialforschung GmbH' />
+    <node id='435' label='TNS Infratest Sozialforschung' />
+    <node id='311' label='TNS Infratest Sozialforschung GmbH' />
+    <node id='594' label='Trans European Policy Studies Association (TEPSA)' />
+    <node id='312' label='Tübinger Arbeitsgruppe Berufsfeldforschung' />
+    <node id='313' label='Tübinger Institut für frauenpolitische Sozialforschung e.V.' />
+    <node id='478' label='United Nations High Commissioner for Refugees' />
+    <node id='415' label='Univation - Institut für Evaluation Dr. Beywl &amp; Associates GmbH' />
+    <node id='314' label='Universidad de Granada, Departamento de Didáctica de la Matemática' />
+    <node id='623' label='Universidad de San Buenaventura' />
+    <node id='629' label='Universidad Nacional de La Plata, Facultad de Humanidades y Ciencias de la Educación (UNLP - FaHCE)' />
+    <node id='641' label='Universidad Nacional de La Plata, Facultad de Humanidades y Ciencias de la Educación (UNLP - FaHCE), Comisión por la memoria' />
+    <node id='315' label='Universidad Santo Tomás, Facultad de Comunicación Social para la Paz' />
+    <node id='316' label='Universität Bamberg, Fak. Geistes- und Kulturwissenschaften, Forschungsstelle "Neue Kommunikationsmedien"' />
+    <node id='534' label='Universität Bamberg, Fak. Sozial- und Wirtschaftswissenschaften' />
+    <node id='317' label='Universität Bamberg, Fak. Sozial- und Wirtschaftswissenschaften, Lehrstuhl für Internationale Beziehungen' />
+    <node id='560' label='Universität Bamberg, Fak. Sozial- und Wirtschaftswissenschaften, Lehrstuhl für Soziologie I' />
+    <node id='526' label='Universität Bamberg, Fak. Sozial- und Wirtschaftswissenschaften, Lehrstuhl für Vergleichende Politikwissenschaft' />
+    <node id='578' label='Universität Bamberg, Fak. Sozial- und Wirtschaftswissenschaften, Professur für Arbeitswissenschaft' />
+    <node id='569' label='Universität Bamberg, Fak. Sozial- und Wirtschaftswissenschaften, Professur für Demografie' />
+    <node id='318' label='Universität Bern, Koordinationsstelle für Weiterbildung' />
+    <node id='549' label='Universität Bern, Medizinische Fakultät, Institut für Sozial- und Präventivmedizin (ISPM)' />
+    <node id='618' label='Universität Bielefeld, Fak. für Soziologie, AG Sozialanthropologie' />
+    <node id='520' label='Universität Bielefeld, Fak. für Soziologie, Centre on Migration, Citizenship and Development (COMCAD)' />
+    <node id='619' label='Universität Bielefeld, Fak. für Soziologie, Forschungsschwerpunkt Entwicklungssoziologie' />
+    <node id='319' label='Universität Bielefeld, Fak. für Soziologie, Institut für Weltgesellschaft' />
+    <node id='606' label='Universität Bielefeld, Fakultät für Rechtswissenschaft' />
+    <node id='605' label='Universität Bielefeld, Fakultät für Soziologie' />
+    <node id='320' label='Universität Bochum' />
+    <node id='628' label='Universität Bochum, Fak. für Sozialwissenschaft, Sektion Soziologie Lehrstuhl für Allgemeine Soziologie, Arbeit und Wirtschaft' />
+    <node id='428' label='Universität Bochum, Zentrum für interdisziplinäre Ruhrgebietsforschung (ZEFIR)' />
+    <node id='439' label='Universität Bonn, Zentrum für Entwicklungsforschung' />
+    <node id='321' label='Universität Bremen' />
+    <node id='322' label='Universität Bremen, FB 08 Sozialwissenschaften, EMPAS Institut für Empirische und Angewandte Soziologie, Arbeitsgebiet Theorie und Empirie der Sozialstruktur' />
+    <node id='323' label='Universität Bremen, FB 09 Human- und Sozialwissenschaften' />
+    <node id='324' label='Universität Bremen, Forschungszentrum Nachhaltigkeit (artec)' />
+    <node id='536' label='Universität Bremen, Institut Technik und Bildung (ITB)' />
+    <node id='650' label='Universität Bremen, International Office' />
+    <node id='325' label='Universität Bremen, SFB 186 Statuspassagen und Risikolagen im Lebensverlauf' />
+    <node id='326' label='Universität Bremen, SFB 597 Staatlichkeit im Wandel' />
+    <node id='327' label='Universität Bremen, Zentrum für Sozialpolitik' />
+    <node id='580' label='Universität Bukarest' />
+    <node id='610' label='Universität der Bundeswehr München ' />
+    <node id='328' label='Universität des Saarlandes, Fak. 05 Empirische Humanwissenschaften, CEval - Centrum für Evaluation' />
+    <node id='462' label='Universität Duisburg-Essen Campus Duisburg, Fak. für Gesellschaftswissenschaften, Institut Arbeit und Qualifikation (IAQ)' />
+    <node id='329' label='Universität Duisburg-Essen Campus Duisburg, Fak. für Gesellschaftswissenschaften, Institut für Soziologie' />
+    <node id='532' label='Universität Duisburg-Essen Campus Duisburg, Institut für Ostasienwissenschaften IN-EAST' />
+    <node id='493' label='Universitatea Babeş-Bolyai' />
+    <node id='617' label='Universität Erlangen-Nürnberg, Labor and Socio-Economic Research Center (LASER)' />
+    <node id='587' label='Universität Erlangen-Nürnberg, Rechts- und Wirtschaftswissenschaftliche Fakultät, FB Rechtswissenschaft' />
+    <node id='330' label='Universität Erlangen-Nürnberg, Rechts- und Wirtschaftswissenschaftliche Fakultät, Institut für Arbeitsmarkt und Sozialökonomik Lehrstuhl für Soziologie und empirische Sozialforschung, insb. Arbeitsmarktsoziologie' />
+    <node id='331' label='Universität Erlangen-Nürnberg, Wirtschafts- und Sozialwissenschaftliche Fakultät, Sozialwissenschaftliches Institut Lehrstuhl für Soziologie' />
+    <node id='413' label='Universität Erlangen-Nürnberg, Wirtschafts- und Sozialwissenschaftliche Fakultät, Sozialwissenschaftliches Institut, Lehrstuhl für Soziologie und Empirische Sozialforschung' />
+    <node id='441' label='Universität Frankfurt am Main' />
+    <node id='511' label='Universität für Bodenkultur (BOKU)' />
+    <node id='508' label='Universität für Bodenkultur (BOKU), Institut für Wald-, Umwelt- und Ressourcenpolitik' />
+    <node id='658' label='Universität Gießen' />
+    <node id='332' label='Universität Göttingen, Fak. für Geowissenschaften und Geographie, Geographisches Institut' />
+    <node id='535' label='Universität Göttingen, Sozialwissenschaftliche Fakultät, Institut für Soziologie' />
+    <node id='333' label='Universität Graz, Forschungspraktikum Soziologie' />
+    <node id='334' label='Universität Graz, Sozial- und Wirtschaftswissenschaftliche Fakultät, Institut für Soziologie' />
+    <node id='514' label='Universität Greifswald, Institut für Geographie und Geologie, Lehrstuhl für Nachhaltigkeitswissenschaft und Angewandte Geographie' />
+    <node id='577' label='Universität Halle-Wittenberg, Institut für Geographie Abt. Sozialgeographie' />
+    <node id='335' label='Universität Halle-Wittenberg, Juristische und Wirtschaftswissenschaftliche Fakultät Juristischer Bereich, Institut für Wirtschaftsrecht Forschungsstelle für Transnationales Wirtschaftsrecht (TELC)' />
+    <node id='336' label='Universität Halle-Wittenberg, Philosophische Fakultät I Sozialwissenschaften und historische Kulturwissenschaften, Institut für Soziologie' />
+    <node id='420' label='Universität Hamburg' />
+    <node id='525' label='Universität Hamburg, Fak. für Erziehungswissenschaft, Psychologie und Bewegungswissenschaft, FB Psychologie, Arbeitsbereich Sozialpsychologie' />
+    <node id='337' label='Universität Hamburg, Fak. Wirtschafts- und Sozialwissenschaften, FB Sozialökonomie, Zentrum für Ökonomische und Soziologische Studien (ZÖSS)' />
+    <node id='338' label='Universität Hannover, Arbeitsgruppe Interdisziplinäre Sozialstrukturforschung (agis)' />
+    <node id='339' label='Universität Hohenheim, Fak. Wirtschafts- und Sozialwissenschaften, Forschungsstelle für Medienwirtschaft und Kommunikationsforschung' />
+    <node id='340' label='Universität Jena' />
+    <node id='341' label='Universität Jena, Fak. für Sozial- und Verhaltenswissenschaften, Institut für Soziologie' />
+    <node id='342' label='Universität Jena, Fak. für Sozial- und Verhaltenswissenschaften, Institut für Soziologie Lehrstuhl für Arbeits-, Industrie- und Wirtschaftssoziologie' />
+    <node id='474' label='Universität Koblenz-Landau Campus Koblenz, FB Bildungswissenschaften, Institut für Pädagogik Abt. Sozialpädagogik' />
+    <node id='343' label='Universität Koblenz-Landau Campus Landau, FB Psychologie' />
+    <node id='344' label='Universität Köln, Humanwissenschaftliche Fakultät, Department Heilpädagogik und Rehabilitation Professur für Arbeit und berufliche Rehabilitation' />
+    <node id='345' label='Universität Köln, Humanwissenschaftliche Fakultät, Department Psychologie' />
+    <node id='346' label='Universität Köln, Wirtschafts- und Sozialwissenschaftliche Fakultät, Forschungsinstitut für Politische Wissenschaft und Europäische Fragen Lehrstuhl für Internationale Politik und Außenpolitik' />
+    <node id='347' label='Universität Köln, Wirtschafts- und Sozialwissenschaftliche Fakultät, Institut für Wirtschafts- und Sozialpsychologie' />
+    <node id='348' label='Universität Köln, Wirtschafts- und Sozialwissenschaftliche Fakultät, Wirtschafts- und Sozialgeographisches Institut' />
+    <node id='657' label='Universität Konstanz' />
+    <node id='349' label='Universität Konstanz, Center for Quantitative Methods and Survey Research (CMS)' />
+    <node id='350' label='Universität Konstanz, Geisteswissenschaftliche Sektion, FB Geschichte und Soziologie, Arbeitsgruppe Hochschulforschung' />
+    <node id='351' label='Universität Leipzig, Fak. für Physik und Geowissenschaften, Institut für Geographie' />
+    <node id='584' label='Universität Leipzig, Kompetenzzentrum für Rechtsextremismus- und Demokratieforschung der Universität Leipzig (KReDo)' />
+    <node id='621' label='Universität Leipzig, Sportwissenschaftliche Fakultät, Institut für Sportpsychologie und Sportpädagogik, Fachgebiet Sportsoziologie' />
+    <node id='563' label='Universität Luzern, Kultur- und Sozialwissenschaftliche Fakultät, Soziologisches Seminar' />
+    <node id='352' label='Universität Mannheim, Mannheimer Zentrum für Europäische Sozialforschung (MZES)' />
+    <node id='353' label='Universität Marburg, FB 21 Erziehungswissenschaften, Institut für Erziehungswissenschaft, Arbeitsbereich Empirische Pädagogik' />
+    <node id='354' label='Universität Marburg, Zentrum für Konfliktforschung' />
+    <node id='356' label='Universität München, SFB 101 Theoretische Grundlagen sozialwissenschaftlicher Berufs- und Arbeitskräfteforschung' />
+    <node id='357' label='Universität München, SFB 333 Entwicklungsperspektiven von Arbeit' />
+    <node id='358' label='Universität München, Sozialwissenschaftliche Fakultät, Centrum für angewandte Politikforschung (C.A.P)' />
+    <node id='359' label='Universität München, Sozialwissenschaftliche Fakultät, Centrum für angewandte Politikforschung (C.A.P) Bertelsmann Forschungsgruppe Politik' />
+    <node id='524' label='Universität München, Sozialwissenschaftliche Fakultät, Centrum für angewandte Politikforschung (C.A.P) Forschungsgruppe Deutschland' />
+    <node id='355' label='Universität München, Sozialwissenschaftliche Fakultät, Centrum für angewandte Politikforschung (C.A.P) Forschungsgruppe Europa' />
+    <node id='360' label='Universität München, Sozialwissenschaftliche Fakultät, Centrum für angewandte Politikforschung (C.A.P) Forschungsgruppe Jugend und Europa' />
+    <node id='553' label='Universität München, Sozialwissenschaftliche Fakultät, Centrum für angewandte Politikforschung (C.A.P) Forschungsgruppe Zukunftsfragen' />
+    <node id='515' label='Universität Münster, FB 06 Erziehungswissenschaft und Sozialwissenschaften, Institut für Soziologie' />
+    <node id='361' label='Universität Münster, FB Erziehungswissenschaft und Sozialwissenschaften, Institut für Politikwissenschaft' />
+    <node id='527' label='Universität Münster, FB Erziehungswissenschaft und Sozialwissenschaften, Institut für Politikwissenschaft Civil-Society-Network' />
+    <node id='523' label='Universität Münster, FB Erziehungswissenschaft und Sozialwissenschaften, Institut für Politikwissenschaft Civil-Society-Network ' />
+    <node id='362' label='Universität Münster, Lateinamerika-Zentrum' />
+    <node id='363' label='Universität Oldenburg, Fak. Bildungs- und Sozialwissenschaften, Institut für Sozialwissenschaften Arbeitsgruppe Soziologische Theorie' />
+    <node id='364' label='Universität Potsdam' />
+    <node id='365' label='Universität Siegen, Integrierter Studiengang Sozialpädagogik und Sozialarbeit (ISPA)' />
+    <node id='366' label='Universität Stuttgart, Fak. 10 Wirtschafts- und Sozialwissenschaften, Institut für Sozialwissenschaften' />
+    <node id='367' label='Universität Stuttgart, Fak. 10 Wirtschafts- und Sozialwissenschaften, Institut für Sozialwissenschaften Abt. VI Organisations- und Innovationssoziologie' />
+    <node id='368' label='Universität Tübingen, Juristische Fakultät, Institut für Kriminologie' />
+    <node id='369' label='Universität Tübingen, Wirtschafts- und Sozialwissenschaftliche Fakultät, Institut für Politikwissenschaft Professur für Politische Wirtschaftslehre' />
+    <node id='370' label='Universität Tübingen, Wirtschafts- und Sozialwissenschaftliche Fakultät, Institut für Soziologie' />
+    <node id='371' label='Universität Wien, Institut für Geschichte' />
+    <node id='372' label='Universität Würzburg, Wirtschaftswissenschaftliche Fakultät, Volkswirtschaftliches Institut Lehrstuhl für VWL, insb. Wirtschaftsordnung und Sozialpolitik' />
+    <node id='581' label='Universität Zürich, Philosophische Fakultät, Institut für Publizistikwissenschaft und Medienforschung' />
+    <node id='373' label='Universität Zürich, Philosophische Fakultät, Soziologisches Institut' />
+    <node id='374' label='University of Cambridge, Faculty of Education, Research Consortium on Educational Outcomes and Poverty (RECOUP)' />
+    <node id='461' label='University of Debrecen' />
+    <node id='375' label='University of Edinburgh, Publication and Dissemination Centre (PUDISCwowe)' />
+    <node id='489' label='University of Gdansk' />
+    <node id='457' label='University of Geneva' />
+    <node id='596' label='University of Gothenburg, Faculty of Social Sciences, Department of Psychology' />
+    <node id='460' label='University of Oradea' />
+    <node id='458' label='University of Warsaw' />
+    <node id='645' label='Uniwersytet Pedagogiczny w Krakowie' />
+    <node id='646' label='Uniwersytetu Łódzkiego' />
+    <node id='376' label='Verband der Schulbuchverlage e.V.' />
+    <node id='501' label='Verband Deutscher Städtestatistiker (VDSt)' />
+    <node id='644' label='Verbraucherzentrale Nordrhein-Westfalen e.V. Kompetenzzentrum Verbraucherforschung NRW' />
+    <node id='377' label='Verbund Norddeutscher Universitäten' />
+    <node id='378' label='Verbund Sozialwissenschaftliche Technikforschung' />
+    <node id='498' label='Walter Eucken Institut e.V.' />
+    <node id='613' label='Werkstatt für Organisations- und Personalforschung e.V.' />
+    <node id='379' label='West-Institut' />
+    <node id='380' label='Wirtschafts- und Sozialwissenschaftliches Institut in der Hans-Böckler-Stiftung' />
+    <node id='381' label='Wissenschaftszentrum Berlin für Sozialforschung gGmbH' />
+    <node id='382' label='Wissenschaftszentrum Berlin für Sozialforschung gGmbH FSP I Arbeitsmarkt und Beschäftigung' />
+    <node id='570' label='Wissenschaftszentrum Berlin für Sozialforschung gGmbH FSP II Technik - Arbeit - Umwelt Abt. Organisation und Technikgenese' />
+    <node id='427' label='Wissenschaftszentrum Berlin für Sozialforschung gGmbH FSP Märkte und Politik Abt. Marktprozesse und Steuerung' />
+    <node id='383' label='Wissenschaftszentrum Berlin für Sozialforschung gGmbH FSP Zivilgesellschaft, Konflikte und Demokratie Arbeitsstelle Interkulturelle Konflikte und gesellschaftliche Integration -AKI-' />
+    <node id='568' label='Zentralinstitut für Jugendforschung (ZIJ)' />
+    <node id='574' label='Zentrum für Europäische Rechtspolitik (ZERP) an der Universität Bremen' />
+    <node id='384' label='Zentrum für Europäische Wirtschaftsforschung (ZEW) GmbH' />
+    <node id='456' label='Zentrum für Historische Sozialforschung' />
+    <node id='575' label='Zentrum für innovative Gesundheitstechnologie an der Technischen Universität Berlin' />
+    <node id='385' label='Zentrum für Internationale Friedenseinsätze (ZIF)' />
+    <node id='386' label='Zentrum für Sozialforschung Halle e.V. (zsh) an der Universität Halle-Wittenberg' />
+    <node id='406' label='Zentrum für Umfragen, Methoden und Analysen -ZUMA-' />
+    <node id='401' label='Zentrum Moderner Orient' />
+    <node id='387' label='Zoom - Gesellschaft für prospektive Entwicklungen e. V.' />
+    <node id='392' label='Zoom - Gesellschaft für prospektive Entwicklungen e.V.' />
+    <node id='548' label='Zürcher Hochschule für Angewandte Wissenschaften (ZHAW)' />
+  </isComposedBy>
+</node>

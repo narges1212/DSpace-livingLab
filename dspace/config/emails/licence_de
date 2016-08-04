@@ -1,0 +1,22 @@
+#Licence email
+# Parameters: {0} item URN
+#             {1} documentInfo 
+#             {2} authorInfo
+#
+# See org.dspace.core.Email for information on the format of this file.
+#
+Subject:  Ihr Volltext auf SSOAR freigeschaltet
+
+Vielen Dank für die Meldung Ihres Volltextes bei SSOAR. Dieser wurde jetzt akzeptiert und freigeschaltet. Im Anhang finden Sie die SSOAR Nutzungsvereinbarungen für das Dokument
+
+{1}
+
+eingereicht von
+
+{2}
+
+Bitte nutzen Sie folgende URN, um den Volltext zu zitieren
+
+http://nbn-resolving.de/urn:nbn:de:{0}
+
+Ihr SSOAR Team

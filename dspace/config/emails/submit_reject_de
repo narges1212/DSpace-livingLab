@@ -1,0 +1,13 @@
+# Rejection email message
+# {0}  Title of submission
+# {1}  Name of collection
+# {2}  Name of the rejector
+# {3}  Reason for the rejection
+# {4}  Link to 'My DSpace' page
+#
+Subject: Ihr Volltext auf SSOAR abgelehnt
+
+Ihr eingereichter Volltext {0} wurde vom SSOAR Redakteur/Redakteurin {2} aus folgendem Grund/folgenden Gründen: {3} abgelehnt. 
+Sie können Ihre Textmeldung jedoch weiterhin in Ihrem SSOAR Account {4} bearbeiten.
+
+Ihr SSOAR-Team

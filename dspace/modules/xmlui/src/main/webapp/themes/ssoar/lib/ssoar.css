@@ -1,0 +1,33 @@
+.hidden{
+    display: none;
+}
+
+div.glass-pane {
+    background-color: grey;
+    opacity: 0.4;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+    position: fixed;
+    top: 300;
+    left: 300;
+    margin: 0;
+    padding: 0;
+    z-index: 11;
+}
+
+.infolis-popup{
+    background-color: white;
+    position: absolute;
+    z-index: 200;
+    border: 5px solid #99CC00;
+    border-radius: 7px 7px 7px 7px;
+    top: 400px;
+    left: 221px;
+}
+
+#InfolisIframe{
+    width: 600px;
+    height: 500px;
+    
+}

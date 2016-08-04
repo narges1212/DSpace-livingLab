@@ -1,0 +1,14 @@
+﻿# Rejection email message
+#
+# {0}  Title of submission
+# {1}  Name of collection
+# {2}  Name of the rejector
+# {3}  Reason for the rejection
+# {4}  Link to 'My DSpace' page
+#
+Subject: Your Submission to SSOAR Rejected
+
+Your submitted full text {0} has been rejected by {2} with the following explanation:{3}
+You can access and modify your submission from your SSOAR account {4}
+
+Your SSOAR Team

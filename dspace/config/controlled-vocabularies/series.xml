@@ -1,0 +1,939 @@
+<node id='series' label=''>
+  <isComposedBy>
+    <node id='3' label='14. Deutscher Soziologentag. Berlin, 1959' />
+    <node id='2' label='14. Deutscher Soziologentag Soziologie und moderne Gesellschaft. Berlin, 1959' />
+    <node id='4' label='16. Deutscher Soziologentag Spätkapitalismus oder Industriegesellschaft?. Frankfurt am Main, 1968' />
+    <node id='5' label='17. Deutscher Soziologentag Zwischenbilanz der Soziologie. Kassel, 1974' />
+    <node id='6' label='18. Deutscher Soziologentag Berufsverbot - Theorieverbote in den Sozialwissenschaften. Bielefeld, 1976' />
+    <node id='7' label='19. Deutscher Soziologentag Sozialer Wandel in Westeuropa. Berlin, 1979' />
+    <node id='1' label='1. Deutscher Soziologentag Wege und Ziele der Soziologie. Frankfurt am Main, 1910' />
+    <node id='9' label='20. Deutscher Soziologentag der Deutschen Gesellschaft für Soziologie -DGS-. Bremen, 1980' />
+    <node id='10' label='21. Deutscher Soziologentag Krise der Arbeitsgesellschaft. Bamberg, 1982' />
+    <node id='11' label='23. Deutscher Soziologentag Technik und sozialer Wandel. Hamburg, 1986' />
+    <node id='12' label='24. Deutscher Soziologentag Kultur und Gesellschaft. Zürich, 1988' />
+    <node id='13' label='27. Kongreß der Deutschen Gesellschaft für Soziologie Gesellschaften im Umbruch. Halle, 1995' />
+    <node id='14' label='28. Kongreß der Deutschen Gesellschaft für Soziologie Differenz und Integration. Die Zukunft moderner Gesellschaften. Dresden, 1996' />
+    <node id='8' label='2. Deutscher Soziologentag Nation und Nationalität. Berlin, 1912' />
+    <node id='16' label='32. Kongress der Deutschen Gesellschaft für Soziologie Soziale Ungleichheit - kulturelle Unterschiede. München, 2004' />
+    <node id='17' label='33. Kongress Die Natur der Gesellschaft. Kassel, 2006' />
+    <node id='18' label='34. Kongress der Deutschen Gesellschaft für Soziologie Unsichere Zeiten. Herausforderungen gesellschaftlicher Transformation (2008, Jena)' />
+    <node id='15' label='3. Deutscher Soziologentag Das Wesen der Revolution. Jena, 1922' />
+    <node id='19' label='4. Deutscher Soziologentag Soziologie und Sozialpolitik, Wissenschaft und soziale Struktur. Heidelberg, 1924' />
+    <node id='20' label='5. Deutscher Soziologentag Demokratie - Naturrecht. Wien, 1926' />
+    <node id='21' label='6. Deutscher Soziologentag Konkurrenz, Wanderungen. Zürich, 1928' />
+    <node id='22' label='7. Deutscher Soziologentag Presse und öffentliche Meinung. Berlin, 1930' />
+    <node id='23' label='8. Deutscher Soziologentag Die gegenwärtige Situation, soziologisch betrachtet. Frankfurt am Main, 1946' />
+    <node id='24' label='9. Deutscher Soziologentag Jugend/ Terror. Worms, 1948' />
+    <node id='628' label='acatech diskutiert' />
+    <node id='29' label='Afrikanische Studien' />
+    <node id='815' label='AGIPEB Working Paper' />
+    <node id='745' label='AIDS-Forum DAH' />
+    <node id='25' label='AIPA - Arbeitspapiere zur Internationalen Politik und Außenpolitik' />
+    <node id='26' label='AKF-Berichte' />
+    <node id='27' label='AKI-Forschungsbilanz' />
+    <node id='649' label='aktuell / Deutsches Institut für Menschenrechte' />
+    <node id='30' label='Aktuelle Analysen / BIOst' />
+    <node id='31' label='Alter(n) und Gesellschaft' />
+    <node id='834' label='Altersübergangs-Report' />
+    <node id='32' label='Amazone-reeks' />
+    <node id='33' label='American Studies' />
+    <node id='34' label='Amsterdam Archaeological Studies' />
+    <node id='35' label='Analysen und Stellungnahmen' />
+    <node id='713' label='Annals of the University of Oradea - International Relations and European Studies' />
+    <node id='36' label='Anne Frank Stichting' />
+    <node id='28' label='APS Research Paper Series' />
+    <node id='778' label='Arbeiten aus dem Forschungsinstitut für Internationale Fragen der Aichi-Universität' />
+    <node id='38' label='Arbeiten des Instituts für sozialwissenschaftliche Forschung e.V., München' />
+    <node id='39' label='Arbeiten zur sozialwissenschaftlichen Psychologie' />
+    <node id='37' label='Arbeit, Innovation und Nachhaltigkeit' />
+    <node id='42' label='Arbeitsbericht &apos;Betriebs- und sozialpolitische Aspekte und Probleme betrieblicher Personalplanung&apos;' />
+    <node id='45' label='Arbeitsberichte der ARL' />
+    <node id='43' label='Arbeitsbericht / Forschungsprogramm Betriebs- und sozialpolitische Aspekte und Probleme betrieblicher Personalplanung' />
+    <node id='44' label='Arbeitsbericht / Universität Bern, Koordinationsstelle für Weiterbildung' />
+    <node id='883' label='Arbeitsbericht / Universität Freiburg, Institut für Forstökonomie' />
+    <node id='825' label='Arbeitsdokument des Obsan' />
+    <node id='913' label='Arbeitsdokument / Schweizerisches Gesundheitsobservatorium' />
+    <node id='46' label='Arbeitshefte des Lateinamerika-Zentrums' />
+    <node id='48' label='Arbeitshilfen BBS' />
+    <node id='47' label='Arbeitshilfen : Schriftenreihe für Sozialhilfe, Jugendhilfe und Gesundheitshilfe' />
+    <node id='49' label='Arbeitsmaterial' />
+    <node id='761' label='Arbeitspapier der Beobachtungsstelle für gesellschaftspolitische Entwicklungen in Europa' />
+    <node id='814' label='Arbeitspapier des Beziehungs- und Familienpanels (pairfam)' />
+    <node id='54' label='Arbeitspapier des Lehrstuhls Technik und Gesellschaft' />
+    <node id='56' label='Arbeitspapier des Projekts ARB-IT2' />
+    <node id='57' label='Arbeitspapier des Projekts DIWA-IT' />
+    <node id='55' label='Arbeitspapier des Projekts Frauen in Karriere' />
+    <node id='61' label='Arbeitspapiere aus dem Arbeitskreis SAMF' />
+    <node id='646' label='Arbeitspapiere aus der Evangelischen Fachhochschule Darmstadt' />
+    <node id='62' label='Arbeitspapiere der Forschungsstelle für Medienwirtschaft und Kommunikationsforschung' />
+    <node id='63' label='Arbeitspapiere des DFG-Schwerpunktes Beziehungs- und Familienentwicklungspanel' />
+    <node id='64' label='Arbeitspapiere des Forschungsseminars WS 2003/2004' />
+    <node id='65' label='Arbeitspapiere des Lehrstuhls Industriesoziologie (vormals Technik und Gesellschaft)' />
+    <node id='924' label='Arbeitspapiere des Osteuropa-Instituts der Freien Universität Berlin' />
+    <node id='874' label='Arbeitspapiere des Osteuropa-Instituts der Freien Universität Berlin, Arbeitsschwerpunkt Politik' />
+    <node id='66' label='Arbeitspapiere des Projekts Export IT' />
+    <node id='60' label='Arbeitspapiere DSF' />
+    <node id='58' label='Arbeitspapiere / Mannheimer Zentrum für Europäische Sozialforschung' />
+    <node id='67' label='Arbeitspapiere und Materialien' />
+    <node id='896' label='Arbeitspapiere und Materialien / Forschungsstelle Osteuropa an der Universität Bremen' />
+    <node id='59' label='Arbeitspapiere / Universität Bremen, ZWE Arbeit und Region' />
+    <node id='748' label='Arbeitspapiere zum Forschungsprojekt "Klientel und Praxis der Jugendstrafrechtspflege"' />
+    <node id='820' label='Arbeitspapier / Hans-Böckler-Stiftung' />
+    <node id='51' label='Arbeitspapier / Sfb 186' />
+    <node id='50' label='Arbeitspapier / SFB 333 der Universität München' />
+    <node id='52' label='Arbeitspapier / Sonderforschungsbereich 333 der Universität München' />
+    <node id='53' label='Arbeitspapier / Universität Konstanz, Zentrum für Quantitative Methoden und Surveyforschung' />
+    <node id='683' label='Arbeitstitel Praxis' />
+    <node id='40' label='Arbeits- und Diskussionspapiere' />
+    <node id='41' label='Arbeits- und Diskussionspapiere / Universität Erlangen-Nürnberg, Lehrstuhl für Soziologie und empirische Sozialforschung, insb. Arbeitsmarktsoziologie' />
+    <node id='659' label='Arbeits- und Diskussionspapiere / Universität Erlangen-Nürnberg, Sozialwissenschaftliches Institut, Lehrstuhl für Soziologie' />
+    <node id='696' label='Arbeit und Alltag: Beiträge zur ethnografischen Arbeitskulturenforschung' />
+    <node id='686' label='Arbeit und Leben im Umbruch' />
+    <node id='68' label='Arena report' />
+    <node id='870' label='Argumentation kompakt' />
+    <node id='69' label='Argumente und Materialien zum Zeitgeschehen' />
+    <node id='70' label='Arnoldsheimer Texte' />
+    <node id='648' label='artec-paper' />
+    <node id='71' label='Atti' />
+    <node id='72' label='Aus Politik und Zeitgeschichte : Beilage zur Wochenzeitung Das Parlament' />
+    <node id='73' label='BACES Discussion Paper' />
+    <node id='74' label='BAG-Info' />
+    <node id='717' label='BAG-Report' />
+    <node id='75' label='BAICE conference paper' />
+    <node id='77' label='Bamberger Online Papers on Integration Research (BOPIR)' />
+    <node id='780' label='BBM Projektforum' />
+    <node id='78' label='Beck&apos;sche Reihe' />
+    <node id='846' label='Beck&apos;sche Schwarze Reihe' />
+    <node id='640' label='Beiträge aus der Forschung' />
+    <node id='79' label='Beiträge zu Migration und Integration' />
+    <node id='80' label='Beiträge zum transnationalen Wirtschaftsrecht' />
+    <node id='81' label='Beiträge zur Arbeitsmarkt- und Berufsforschung' />
+    <node id='82' label='Beiträge zur Hochschulpolitik' />
+    <node id='83' label='Beiträge zur Kommunalwissenschaft' />
+    <node id='701' label='Beiträge zur Personal- und Organisationsökonomik' />
+    <node id='84' label='Beiträge zur Qualitativen Inhaltsanalyse' />
+    <node id='940' label='Beiträge zur regionalen Geographie' />
+    <node id='790' label='Beiträge zur Sozialen Sicherheit' />
+    <node id='87' label='Beiträge zur sozialwissenschaftlichen Forschung' />
+    <node id='85' label='Beiträge zur Stadtforschung' />
+    <node id='86' label='Beiträge zur Theorie und Geschichte der Erziehungswissenschaft' />
+    <node id='90' label='Berichte aus dem Bereich Arbeits-, Berufs- und Organisationspsychologie an der FU Berlin' />
+    <node id='91' label='Berichte aus dem Colloquium Psychologie und Postmoderne' />
+    <node id='741' label='Berichte aus der Arbeitsmarktforschung' />
+    <node id='88' label='Berichte / BIOst' />
+    <node id='92' label='Berichte der Forschungsstelle Neue Kommunikationsmedien' />
+    <node id='889' label='Berichte der Werkstatt für Organisations- und Personalforschung e.V.' />
+    <node id='93' label='Berichte des Lehrstuhls für Soziologie und empirische Sozialforschung' />
+    <node id='949' label='Berichte für das Bundespresseamt' />
+    <node id='866' label='Berichte und Materialien (BM-Online)' />
+    <node id='89' label='Berichte / Universität Erlangen-Nürnberg, Lehrstuhl für Soziologie und empirische Sozialforschung, insb. Arbeitsmarktsoziologie' />
+    <node id='658' label='Berichte / Universität Erlangen-Nürnberg, Sozialwissenschaftliches Institut, Lehrstuhl für Soziologie' />
+    <node id='94' label='Berichte zum sozialen und politischen Wandel in Ostdeutschland' />
+    <node id='95' label='Berichte zur beruflichen Bildung: Schriftenreihe des Bundesinstituts für Berufsbildung' />
+    <node id='897' label='Berliner Forum Gewaltprävention' />
+    <node id='96' label='Berliner Handreichungen zur Bibliotheks- und Informationswissenschaft' />
+    <node id='97' label='Berliner Hefte zur Arbeits- und Sozialpsychologie' />
+    <node id='872' label='Berliner Studien zur Soziologie Europas / Berlin Studies on the Sociology of Europe (BSSE)' />
+    <node id='684' label='Berufsbildung, Arbeit und Innovation' />
+    <node id='805' label='Betriebspanel Hessen' />
+    <node id='99' label='Betriebs- und sozialpolitische Aspekte und Probleme betrieblicher Personalplanung' />
+    <node id='98' label='Betrieb und Gesellschaft - eine Veröffentlichung des RKW' />
+    <node id='100' label='Betrifft: Geschlecht' />
+    <node id='843' label='BfN-Skripten' />
+    <node id='918' label='BFS Aktuell' />
+    <node id='922' label='Biblioteca Humanidades' />
+    <node id='101' label='Bibliotheca Iuridica' />
+    <node id='102' label='Bibliothek Wissenschaft und Politik' />
+    <node id='103' label='Bildung und Arbeitswelt' />
+    <node id='104' label='Biographie und Gesellschaft' />
+    <node id='105' label='Black Sea Studies' />
+    <node id='824' label='Blaue Reihe' />
+    <node id='106' label='Blaue Reihe / Berliner Zentrum Public Health' />
+    <node id='107' label='Blickpunkt' />
+    <node id='709' label='Blickpunkt Arbeitsmarkt' />
+    <node id='753' label='Blickpunkt Hochschuldidaktik' />
+    <node id='723' label='BMBF Studie' />
+    <node id='948' label='BPA-Berichte' />
+    <node id='108' label='Braunschweiger Studien zur Erziehungs- und Sozialarbeitswissenschaft' />
+    <node id='109' label='Bremer Beiträge zur Psychologie. Reihe A, Psychologische Forschungsberichte' />
+    <node id='110' label='Bremer soziologische Texte' />
+    <node id='931' label='Brennpunkt Lateinamerika' />
+    <node id='111' label='Briefing Paper' />
+    <node id='112' label='Brill&apos;s Studies in Intellectual History' />
+    <node id='882' label='Bürgergesellschaft und Demokratie' />
+    <node id='795' label='Cahier de recherche' />
+    <node id='131' label='Campus Forschung' />
+    <node id='113' label='CAP Aktuell' />
+    <node id='114' label='CAP Analyse' />
+    <node id='823' label='CAP Discussion Paper' />
+    <node id='120' label='CAPerspectives' />
+    <node id='115' label='CAP Policy Analysis' />
+    <node id='116' label='CAP Policy Brief' />
+    <node id='117' label='CAP Policy Research' />
+    <node id='118' label='CAP Studie' />
+    <node id='119' label='CAP Working-Paper' />
+    <node id='132' label='Care &amp; Welfare' />
+    <node id='133' label='Case Network Studies &amp; Analyses' />
+    <node id='121' label='CCS Working Papers' />
+    <node id='122' label='CEDEFOP Document' />
+    <node id='123' label='CEESA Discussion Paper' />
+    <node id='124' label='CEFMR Working Paper' />
+    <node id='875' label='Center for Global Politics Working Paper Series' />
+    <node id='125' label='CEPS Working Documents' />
+    <node id='126' label='CESifo Working Paper' />
+    <node id='127' label='CEval-Arbeitspapier' />
+    <node id='841' label='cews.Beiträge Frauen in Wissenschaft und Forschung' />
+    <node id='655' label='CEWS-Projektberichte' />
+    <node id='629' label='cews.publik' />
+    <node id='928' label='CGP Working Paper Series' />
+    <node id='134' label='Changing Welfare States' />
+    <node id='128' label='CIS-Barometer' />
+    <node id='135' label='Clingendael Dissertations' />
+    <node id='917' label='CMS Discussion Paper' />
+    <node id='136' label='Colloquium Africanum' />
+    <node id='759' label='COMCAD Working Papers' />
+    <node id='129' label='CONNEX Report Series' />
+    <node id='137' label='Critical Labour Movement Studies Series' />
+    <node id='845' label='Crossroads Asia Working Papers' />
+    <node id='868' label='Crossroads Asia Working Paper Series' />
+    <node id='130' label='CSM Reports &amp; Analyses' />
+    <node id='139' label='Culturelink Joint Publication Series 11' />
+    <node id='138' label='Culture Machine Series' />
+    <node id='147' label='Darmstädter Beiträge zur Berufspädagogik' />
+    <node id='939' label='Daten, Fakten, Literatur zur Geographie Europas' />
+    <node id='148' label='De-Gruyter-Studienbuch' />
+    <node id='149' label='Demographie und Erwerbsarbeit' />
+    <node id='150' label='Demokratie, Sicherheit, Frieden' />
+    <node id='140' label='DEMO-net Booklet Series' />
+    <node id='151' label='Department of Sociology Working Paper Series' />
+    <node id='152' label='Der Hallesche Graureiher : Forschungsberichte des Instituts für Soziologie' />
+    <node id='743' label='Der Mensch im Netz der Kulturen: Humanismus in der Epoche der Globalisierung' />
+    <node id='736' label='Der Ordnungspolitische Kommentar (IWP Köln)' />
+    <node id='668' label='DGAPaktuell' />
+    <node id='665' label='DGAP-Analyse' />
+    <node id='669' label='DGAP-Analyse Frankreich' />
+    <node id='664' label='DGAP-Analyse kompakt' />
+    <node id='663' label='DGAP-Bericht' />
+    <node id='666' label='DGAP-Schriften zur internationalen Politik' />
+    <node id='667' label='DGAP-Standpunkt' />
+    <node id='754' label='DGFP-PraxisEdition' />
+    <node id='141' label='DIAS-Analyse' />
+    <node id='154' label='Die andere Arbeitswelt' />
+    <node id='142' label='DIE Discussion Paper' />
+    <node id='153' label='Die GEW informiert' />
+    <node id='143' label='DIE Studies' />
+    <node id='900' label='Digital Communication Research' />
+    <node id='943' label='Digital Cultures Series' />
+    <node id='798' label='Disability Studies' />
+    <node id='661' label='Discussion Paper / Berlin-Institut für Bevölkerung und Entwicklung' />
+    <node id='819' label='Discussion Papers / Universität Bamberg, Professur für Demografie' />
+    <node id='155' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung' />
+    <node id='156' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Arbeitsgruppe Internationale Politik' />
+    <node id='157' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsprofessur Neue Formen von Governance' />
+    <node id='163' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Arbeitsmarkt und Beschäftigung, Abteilung Arbeitsmarktpolitik und Beschäftigung' />
+    <node id='164' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Arbeitsmarkt und Beschäftigung, Abteilung Wirtschaftswandel und Beschäftigung' />
+    <node id='162' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Arbeitsmarkt und Beschäftigung, Abt. Organisation und Beschäftigung' />
+    <node id='159' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Arbeit, Sozialstruktur und Sozialstaat, Abteilung Arbeitsmarktpolitik und Beschäftigung' />
+    <node id='160' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Arbeit, Sozialstruktur und Sozialstaat, Abteilung Ungleichheit und soziale Integration' />
+    <node id='158' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Arbeit, Sozialstruktur und Sozialstaat Forschungsgruppe Public Health' />
+    <node id='161' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Arbeit, Sozialstruktur und Sozialstaat, Forschungsgruppe Public Health' />
+    <node id='166' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Bildung, Arbeit und Lebenschancen, Abteilung Arbeitsmarktpolitik und Beschäftigung' />
+    <node id='167' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Bildung, Arbeit und Lebenschancen, Abteilung Ausbildung und Arbeitsmarkt' />
+    <node id='168' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Bildung, Arbeit und Lebenschancen, Abteilung Ausbildung und Arbeitsmarkt, Projektgruppe Nationales Bildungspanel: Berufsbildung und lebensla' />
+    <node id='169' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Bildung, Arbeit und Lebenschancen, Abteilung Ungleichheit und soziale Integration' />
+    <node id='165' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Bildung, Arbeit und Lebenschancen Forschungsgruppe Public Health' />
+    <node id='671' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Bildung, Arbeit und Lebenschancen, Forschungsgruppe Public Health' />
+    <node id='170' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Bildung, Arbeit und Lebenschancen, Forschungsprofessur Demographische Entwicklung, sozialer Wandel und Sozialkapital' />
+    <node id='173' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Gesellschaft und wirtschaftliche Dynamik, Abteilung Kulturelle Quellen von Neuheit' />
+    <node id='172' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Gesellschaft und wirtschaftliche Dynamik, Abt. Innovation und Organisation' />
+    <node id='171' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Gesellschaft und wirtschaftliche Dynamik Forschungsgruppe Wissen, Produktionssysteme und Arbeit' />
+    <node id='174' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Gesellschaft und wirtschaftliche Dynamik, Forschungsgruppe Wissenschaftspolitik' />
+    <node id='184' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Märkte und Politik, Abteilung Marktprozesse und Steuerung' />
+    <node id='186' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Märkte und Politik, Abteilung Wettbewerbsfähigkeit und industrieller Wandel' />
+    <node id='185' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Märkte und Politik, Abteilung Wettbewerb und Innovation' />
+    <node id='183' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Märkte und Politik, Abt. Wettbewerbsfähigkeit und industrieller Wandel' />
+    <node id='182' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Märkte und Politik, Abt. Wettbewerb und Innovation' />
+    <node id='187' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Märkte und Politik, Forschungsgruppe Institutionen, Staaten, Märkte' />
+    <node id='188' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Märkte und Politik, Forschungsgruppe Wettbewerb und Innovation' />
+    <node id='180' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Marktprozeß und Unternehmensentwicklung' />
+    <node id='181' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Marktprozeß und Unternehmensentwicklung, Abt. Wettbewerbsfähigkeit und industrieller Wandel' />
+    <node id='920' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Markt und Entscheidung, Abteilung Ökonomik des Wandels' />
+    <node id='175' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Markt und politische Ökonomie' />
+    <node id='177' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Markt und politische Ökonomie, Abteilung Marktprozesse und Steuerung' />
+    <node id='178' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Markt und politische Ökonomie, Abteilung Wettbewerbsfähigkeit und industrieller Wandel' />
+    <node id='176' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Markt und politische Ökonomie, Abt. Wettbewerbsfähigkeit und industrieller Wandel' />
+    <node id='179' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Markt und politische Ökonomie, Arbeitsgruppe Institutionen, Staaten, Märkte' />
+    <node id='190' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Organisationen und Wissen, Abteilung Innovation und Organisation' />
+    <node id='191' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Organisationen und Wissen, Abteilung Internationalisierung und Organisation' />
+    <node id='192' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Organisationen und Wissen, Forschungsgruppe Wissen, Produktionssysteme und Arbeit' />
+    <node id='189' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Organisation und Wissen, Forschungsgruppe Wissen, Produktionssysteme und Arbeit' />
+    <node id='193' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Sozialer Wandel, Institutionen und Vermittlungsprozesse, Abteilung Sozialstruktur und Sozialberichterstattung' />
+    <node id='194' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Technik - Arbeit - Umwelt, Abteilung Normbildung und Umwelt' />
+    <node id='195' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Zivilgesellschaft, Konflikte und Demokratie, Abteilung Demokratie: Strukturen, Leistungsprofil und Herausforderungen' />
+    <node id='196' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Zivilgesellschaft, Konflikte und Demokratie, Abteilung Migration, Integration, Transnationalisierung' />
+    <node id='197' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Zivilgesellschaft, Konflikte und Demokratie, Abteilung Transnationale Konflikte und Internationale Institutionen' />
+    <node id='198' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Zivilgesellschaft, Konflikte und Demokratie, Abteilung Zivilgesellschaft und transnationale Netzwerke' />
+    <node id='199' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Zivilgesellschaft, Konflikte und Demokratie, Arbeitsgruppe Politische Öffentlichkeit und Mobilisierung' />
+    <node id='200' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Zivilgesellschaft, Konflikte und Demokratie, Arbeitsgruppe Zivilgesellschaft: historisch-sozialwissenschaftliche Perspektiven' />
+    <node id='201' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Zivilgesellschaft, Konflikte und Demokratie, Arbeitsstelle Interkulturelle Konflikte und gesellschaftliche Integration' />
+    <node id='202' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Zivilgesellschaft, Konflikte und Demokratie, Forschungsgruppe Zivilgesellschaft, Citizenship und Politische Mobilisierung in Europa' />
+    <node id='203' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Schwerpunkt Märkte und Politik, Abt. Verhalten auf Märkten' />
+    <node id='204' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Schwerpunkt Märkte und Politik, Forschungsprofessur und Projekt The Future of Fiscal Federalism' />
+    <node id='205' label='Discussion Papers / Wissenschaftszentrum Berlin für Sozialforschung, Schwerpunkt Zivilgesellschaft, Konflikte und Demokratie, Schumpeter-Nachwuchsgruppe Positionsbildung in der EU-Kommission' />
+    <node id='921' label='Discutir el Lenguaje' />
+    <node id='206' label='Diskursivitäten' />
+    <node id='207' label='Diskussionspapiere / Arbeitsgruppe Soziologische Theorie' />
+    <node id='757' label='Diskussionspapier / Institut für Wald-, Umwelt- und Ressourcenpolitik' />
+    <node id='144' label='DIW Diskussionspapiere' />
+    <node id='892' label='DNWE-Schriftenreihe' />
+    <node id='899' label='Dok &amp; Mat' />
+    <node id='651' label='Dokumentation / Deutsches Institut für Menschenrechte' />
+    <node id='208' label='Dokumentation / Evangelischer Pressedienst, Epd' />
+    <node id='209' label='Dokumente zum Hochschulsport' />
+    <node id='914' label='Dossier / SGB-USS' />
+    <node id='210' label='Dress, Body, Culture' />
+    <node id='211' label='Drucksache / Deutscher Bundestag' />
+    <node id='145' label='DSF Archiv' />
+    <node id='770' label='Duisburger Arbeitspapiere Ostasienwissenschaften' />
+    <node id='873' label='Duisburger Arbeitspapiere Ostasienwissenschaften / Duisburg Working Papers on East Asian Studies' />
+    <node id='212' label='Duisburger Beiträge zur soziologischen Forschung' />
+    <node id='146' label='DVS-Protokolle : Schriften der Deutschen Vereinigung für Sportwissenschaft' />
+    <node id='662' label='DZA Diskussionspapiere' />
+    <node id='941' label='DZA-Fact Sheet' />
+    <node id='214' label='EADI' />
+    <node id='215' label='ECMI Working Paper' />
+    <node id='893' label='Edition Donau-Universität Krems' />
+    <node id='217' label='Edition Hipparchia' />
+    <node id='222' label='Edition panta rei - Forum für dialektisches Denken' />
+    <node id='218' label='Edition Psychologie' />
+    <node id='630' label='edition QUEM: Studien zur beruflichen Weiterbildung im Transformationsprozess' />
+    <node id='219' label='Edition Soziale Arbeit' />
+    <node id='720' label='Edition Sozio-Publishing' />
+    <node id='220' label='Edition Suhrkamp' />
+    <node id='221' label='Edition Suhrkamp , Neue Folge' />
+    <node id='826' label='efms paper' />
+    <node id='223' label='Empirische Literaturwissenschaft' />
+    <node id='702' label='Empirische Personal- und Organisationsforschung' />
+    <node id='224' label='Enzyklopädie der Betriebswirtschaftslehre' />
+    <node id='225' label='Enzyklopädie der Psychologie : Forschungmethoden der Psychologie' />
+    <node id='213' label='E-Paper der ARL' />
+    <node id='706' label='EREV-Schriftenreihe' />
+    <node id='768' label='Ergebnisse, Veröffentlichungen und Materialien aus dem BIBB' />
+    <node id='226' label='Erlebniswelten' />
+    <node id='660' label='Erziehungshilfen in Rheinland-Pfalz' />
+    <node id='216' label='ESOC Working Paper' />
+    <node id='645' label='Essay' />
+    <node id='916' label='Estudios / Investigaciones' />
+    <node id='227' label='Estudos e Investigações' />
+    <node id='863' label='EUCROSS Policy Brief' />
+    <node id='859' label='EUCROSS Working Paper' />
+    <node id='905' label='Eurolimes, Supplement' />
+    <node id='228' label='Europa' />
+    <node id='231' label='Europäische Hochschulschriften. Reihe 11, Pädagogik' />
+    <node id='230' label='European Public Law Series' />
+    <node id='930' label='European review : interdisciplinary journal of the Academia Europaea' />
+    <node id='229' label='Europe in Change' />
+    <node id='802' label='Euro-Perspektiven' />
+    <node id='232' label='ExMA-Papers' />
+    <node id='807' label='FaMa-Diskussionspapier' />
+    <node id='955' label='Familie und Gesellschaft' />
+    <node id='234' label='FAST Occasional Papers' />
+    <node id='801' label='FDZ Datenreport' />
+    <node id='785' label='FDZ Methodenreport' />
+    <node id='235' label='FFU-Report' />
+    <node id='236' label='FiBS-Forschungsbericht' />
+    <node id='237' label='FiBS-Forum' />
+    <node id='238' label='Film Culture in Transition' />
+    <node id='239' label='Fischer Taschenbücher' />
+    <node id='233' label='F.I.T. Discussion Papers' />
+    <node id='772' label='flexCAREER Working Paper' />
+    <node id='240' label='Forschung DSF' />
+    <node id='242' label='Forschungen zum Handeln in Arbeit und Alltag' />
+    <node id='241' label='Forschung Politikwissenschaft' />
+    <node id='244' label='Forschungsanträge Sfb 186' />
+    <node id='245' label='Forschungsbericht' />
+    <node id='253' label='Forschungsbericht aus dem Institut für Psychologie der Technischen Universität Berlin' />
+    <node id='254' label='Forschungsbericht aus dem MPIfG' />
+    <node id='255' label='Forschungsbericht aus der Abteilung Psychologie im Institut für Sozialwissenschaften' />
+    <node id='246' label='Forschungsbericht / Bundesamt für Migration und Flüchtlinge' />
+    <node id='247' label='Forschungsbericht / Bundesministerium für Arbeit und Soziales' />
+    <node id='738' label='Forschungsbericht / Bundesministerium für Wirtschaft und Arbeit' />
+    <node id='258' label='Forschungsberichte aus dem Institut für Psychologie' />
+    <node id='259' label='Forschungsberichte aus dem Institut für Sozialwissenschaftliche Forschung e.V.' />
+    <node id='260' label='Forschungsberichte aus dem zsh' />
+    <node id='774' label='Forschungsberichte der ARL' />
+    <node id='261' label='Forschungsberichte des Psychologischen Instituts der Albert-Ludwigs-Universität Freiburg i. Br.' />
+    <node id='257' label='Forschungsberichte / GESIS-IZ Sozialwissenschaften' />
+    <node id='248' label='Forschungsbericht Humanisierung des Arbeitslebens' />
+    <node id='249' label='Forschungsbericht Humanisierung des Arbeitslebens / Bundesministerium für Forschung und Technologie' />
+    <node id='250' label='Forschungsbericht KfK-PDV (Projekt Prozesslenkung mit DV-Anlagen)' />
+    <node id='251' label='Forschungsbericht KfK-PFT / Kernforschungszentrum Karlsruhe, Projektträgerschaft Fertigungstechnik' />
+    <node id='762' label='Forschungsbericht / Österreichisches Institut für Familienforschung an der Universität Wien' />
+    <node id='252' label='Forschungsbericht Sozialforschung' />
+    <node id='256' label='Forschungsbericht zum Projekt Identität und Akkulturation von Migranten' />
+    <node id='262' label='Forschungsreihe des Forschungsschwerpunkts Arbeit und Bildung' />
+    <node id='263' label='Forschungsstand Politikwissenschaft' />
+    <node id='243' label='Forschungs- und Sitzungsberichte der ARL' />
+    <node id='692' label='Forschung und Weiterbildung für die betriebliche Praxis' />
+    <node id='953' label='Fortschritte in der Wissensorganisation' />
+    <node id='264' label='Fortschritts-Berichte VDI Reihe 2' />
+    <node id='265' label='Forum DSF' />
+    <node id='266' label='Forum Frauenforschung' />
+    <node id='268' label='Forum für Verhaltenstherapie und psychologische Praxis' />
+    <node id='269' label='Forum für Verhaltenstherapie und psychosoziale Praxis' />
+    <node id='641' label='Forum IfL' />
+    <node id='267' label='Forum Komparative Kasuistik' />
+    <node id='271' label='Frauen, Gesellschaft, Kritik' />
+    <node id='270' label='Frauen in Geschichte und Gesellschaft' />
+    <node id='272' label='Freiburger Beiträge zu Entwicklung und Politik' />
+    <node id='750' label='Freiburger Diskussionspapiere zur Ordnungsökonomik' />
+    <node id='273' label='French politics, society and culture series' />
+    <node id='274' label='Friedenspsychologie' />
+    <node id='291' label='Gendered Subjects' />
+    <node id='290' label='Gender in History' />
+    <node id='292' label='Geschlecht &amp; Gesellschaft' />
+    <node id='294' label='Gesellschaft im FOKUS der Sozialwissenschaften' />
+    <node id='293' label='Gesellschaft - Technik - Umwelt, N.F.' />
+    <node id='276' label='GESIS-Arbeitsbericht' />
+    <node id='277' label='GESIS-Forschungsberichte - Reihe Sozialwissenschaftliche Datenanalyse' />
+    <node id='275' label='GESIS- Forschungsberichte - Reihe Survey Methodology' />
+    <node id='829' label='GESIS-How-to' />
+    <node id='278' label='GESIS-Methodenberichte' />
+    <node id='919' label='GESIS Papers' />
+    <node id='279' label='GESIS-Schriftenreihe' />
+    <node id='280' label='GESIS-Tagungsberichte' />
+    <node id='281' label='GESIS-Technical Reports' />
+    <node id='282' label='GESIS-Working Papers' />
+    <node id='295' label='Gesundheitsforschung' />
+    <node id='296' label='Ghana Working Paper (Meta Analysis) Series' />
+    <node id='283' label='GIGA Focus Afrika' />
+    <node id='284' label='GIGA Focus Asien' />
+    <node id='285' label='GIGA Focus Global' />
+    <node id='286' label='GIGA Focus International Edition' />
+    <node id='287' label='GIGA Focus Lateinamerika' />
+    <node id='288' label='GIGA Focus Nahost' />
+    <node id='642' label='GK SOCLIFE Working Papers Series' />
+    <node id='297' label='GlobeProPrint' />
+    <node id='869' label='Göteborg Psychological Reports' />
+    <node id='299' label='Göttinger Beiträge zur Ethnologie' />
+    <node id='300' label='Göttinger Forstwissenschaften' />
+    <node id='301' label='Göttinger Schriften zum Öffentlichen Recht' />
+    <node id='302' label='Göttinger Studien zu Cultural Property' />
+    <node id='289' label='GRALE' />
+    <node id='298' label='Graue Reihe der KSPW bei der GSFP' />
+    <node id='832' label='Hallesche Diskussionsbeiträge zur Wirtschafts- und Sozialgeographie' />
+    <node id='764' label='Hamburger Forschungsberichte zur Sozialpsychologie (HaFoS)' />
+    <node id='835' label='Hamburger Studien zur Kriminologie und Kriminalpolitik' />
+    <node id='654' label='Handbuch' />
+    <node id='306' label='Handbuch der Geistesgeschichte in Deutschland nach Hitler 1945-1950 : Reihe Soziologie, Beihefte' />
+    <node id='847' label='Handreichung / Anwaltschaft für Menschenrechte und Vielfalt' />
+    <node id='307' label='Harburger Beiträge zur Psychologie und Soziologie der Arbeit' />
+    <node id='308' label='Hefte zur Bildungs- und Hochschulforschung' />
+    <node id='309' label='Hertie School of Governance - working papers' />
+    <node id='746' label='Hintergrund- und Diskussionspapier' />
+    <node id='303' label='HIS Brief' />
+    <node id='304' label='HIS-Kurzinformationen A' />
+    <node id='310' label='Historical Social Research , Supplement' />
+    <node id='733' label='Historisch-Sozialwissenschaftliche Forschungen : quantitative sozialwissenschaftliche Analysen von historischen und prozeß-produzierten Daten' />
+    <node id='311' label='How-to-Reihe' />
+    <node id='305' label='HSFK-Report' />
+    <node id='312' label='Huldebundel' />
+    <node id='313' label='IAB Discussion Paper: Beiträge zum wissenschaftlichen Dialog aus dem Institut für Arbeitsmarkt- und Berufsforschung' />
+    <node id='656' label='IAB Forschungsbericht : Aktuelle Ergebnisse aus der Projektarbeit des Instituts für Arbeitsmarkt- und Berufsforschung' />
+    <node id='314' label='IAB Forschungsbericht : Ergebnisse aus der Projektarbeit des Instituts für Arbeitsmarkt- und Berufsforschung' />
+    <node id='765' label='IAB-Stellungnahme' />
+    <node id='315' label='IAIZ-Schriftenreihe' />
+    <node id='903' label='IAQ-Forschungsbericht' />
+    <node id='902' label='IAQ-Report' />
+    <node id='316' label='IBL Forschung' />
+    <node id='317' label='ICAS Publications Series' />
+    <node id='318' label='ICAS Publications Series / Edited Volumes' />
+    <node id='791' label='ICCR Research Report' />
+    <node id='853' label='IEP Policy Brief' />
+    <node id='864' label='IEP Policy Briefs on Eastern Europe and Central Asia' />
+    <node id='851' label='IEP Policy Briefs on Enlargement and Neighbourhood' />
+    <node id='849' label='IEP Policy Paper on Eastern Europe and Central Asia' />
+    <node id='854' label='IEP Policy Papers on Eastern Europe and Central Asia' />
+    <node id='860' label='IEP Ratification Survey' />
+    <node id='861' label='IEP Working Paper' />
+    <node id='631' label='ifb-Forschungsbericht' />
+    <node id='632' label='ifb-Materialien' />
+    <node id='719' label='IFGK-Arbeitspapier' />
+    <node id='319' label='iFQ-Working Paper' />
+    <node id='675' label='IF Working Paper Series' />
+    <node id='320' label='IIAS Publications Series' />
+    <node id='739' label='Image' />
+    <node id='321' label='IMI-Analyse' />
+    <node id='324' label='IMISCoe Dissertations' />
+    <node id='776' label='IMISCOE Policy Brief' />
+    <node id='325' label='IMISCoe Reports' />
+    <node id='326' label='IMISCoe Research' />
+    <node id='323' label='IMIS-Schriften' />
+    <node id='322' label='IMI-Studie' />
+    <node id='818' label='Impulse - Werkstatt Fachhochschule' />
+    <node id='333' label='Individuum und Gesellschaft: Beiträge zur Sozialisations- und Gemeinschaftsforschung' />
+    <node id='334' label='Informatik-Fachberichte, 208 : Subreihe künstliche Intelligenz' />
+    <node id='714' label='Informationswissenschaft zwischen virtueller Infrastruktur und materiellen Lebenswelten. Proceedings des 13. Internationalen Symposiums der Informationswissenschaft (ISI 2013)' />
+    <node id='923' label='Informes FaHCE' />
+    <node id='721' label='INFU Discussion Paper' />
+    <node id='335' label='Innovationsmuster in der österreichischen Wirtschaftsgeschichte' />
+    <node id='711' label='INQA-Berichte' />
+    <node id='336' label='Institutional Change in Agriculture and Natural Resources (ICAR) : Discussion Papers' />
+    <node id='337' label='Interaktion und Lebenslauf' />
+    <node id='338' label='Interdisziplinäre Schriften zur Wissenschaftsforschung' />
+    <node id='867' label='Interkulturalität &amp; Religion / Intercultural &amp; Relgious Studies: Liebenzeller Impulse zu Mission, Kultur und Religion' />
+    <node id='339' label='Interkulturelle Erziehung in Praxis und Theorie' />
+    <node id='340' label='International Business and Economics Discussion Papers' />
+    <node id='341' label='International conference of the IAPS' />
+    <node id='342' label='Internationale Beziehungen' />
+    <node id='343' label='Internationales Jahrbuch für Wissens- und Religionssoziologie' />
+    <node id='787' label='International Labour Studies' />
+    <node id='880' label='International series in experimental social psychology' />
+    <node id='731' label='International Series in the Psychology of Religion' />
+    <node id='691' label='International vergleichende Schriften zur Personalökonomie und Arbeitspolitik' />
+    <node id='344' label='Internet communication' />
+    <node id='865' label='IÖR Schriften' />
+    <node id='327' label='ISAB-Berichte aus Forschung und Praxis' />
+    <node id='328' label='ISF München aktuell' />
+    <node id='329' label='ISIM Dissertations' />
+    <node id='330' label='ISIM Series on Contemporary Muslim Societies' />
+    <node id='811' label='ISS-Aktuell' />
+    <node id='331' label='ISSA wissenschaftliche Reihe' />
+    <node id='345' label='Issues in environmental politics' />
+    <node id='346' label='Istanbuler Texte und Studien' />
+    <node id='773' label='ITB-Arbeitspapier' />
+    <node id='783' label='ITB-Forschungsberichte' />
+    <node id='734' label='ITD Annual Report' />
+    <node id='789' label='IWG Impulse' />
+    <node id='910' label='IZA Discussion Paper' />
+    <node id='638' label='IZ-Arbeitsbericht' />
+    <node id='332' label='IZ Policy Papers' />
+    <node id='347' label='Jaarboek Mens &amp; Maatschappij' />
+    <node id='348' label='Jahrbuch für Europa- und Nordamerikastudien' />
+    <node id='349' label='Jahrbuch für Soziologiegeschichte' />
+    <node id='788' label='Jahresbericht / Deutsches Institut für Menschenrechte' />
+    <node id='350' label='Juventa-Materialien' />
+    <node id='351' label='KAS-Schriftenreihe China' />
+    <node id='808' label='KFG Working Paper Series' />
+    <node id='352' label='KFIBS-Analysis' />
+    <node id='775' label='KFIBS-Studie' />
+    <node id='735' label='Kleine Schriften zur Geschichte und Landeskunde' />
+    <node id='911' label='KMI Working Paper Series' />
+    <node id='353' label='KNI Papers' />
+    <node id='354' label='Konsumsoziologie und Massenkultur' />
+    <node id='355' label='Kritische Texte' />
+    <node id='356' label='Kröners Taschenausgabe' />
+    <node id='357' label='Kultur, Geschichte, Theorie : Studien zur Kultursoziologie' />
+    <node id='742' label='Kultur und soziale Praxis' />
+    <node id='726' label='Kulturwissenschaftliche Technikforschung' />
+    <node id='358' label='Kursbuch' />
+    <node id='908' label='Kurzanalyse / Österreichisches Institut für Internationale Politik' />
+    <node id='363' label='Language, power and social process' />
+    <node id='904' label='LASER Discussion Papers' />
+    <node id='364' label='Lebensformen' />
+    <node id='644' label='Lebensformen : Veröffentlichungen des Instituts für Volkskunde der Universität Hamburg' />
+    <node id='365' label='Lebenslauf - Alter - Generation' />
+    <node id='366' label='Lecture notes in computer science' />
+    <node id='369' label='Lehrstuhl für Soziologie und Empirische Sozialforschung &lt;Nürnberg&gt;/Publikationen/Berichte/Archiv (Berichte)' />
+    <node id='368' label='Lehr-und Forschungstexte Psychologie' />
+    <node id='367' label='Lehr- und Handbücher der Soziologie' />
+    <node id='370' label='Leviathan , Sonderheft' />
+    <node id='359' label='LISA-Forschungsberichte' />
+    <node id='848' label='Local Government Transformation' />
+    <node id='360' label='LREC Proceedings' />
+    <node id='361' label='LUP Academic' />
+    <node id='362' label='LUP Dissertaties' />
+    <node id='374' label='Mainzer Studien zur Sportwissenschaft' />
+    <node id='376' label='Managementforschung' />
+    <node id='676' label='Managementkonzepte' />
+    <node id='377' label='Mannheimer Jahrbuch für Europäische Sozialforschung' />
+    <node id='375' label='Man &amp; Society' />
+    <node id='371' label='MARE Publication Series' />
+    <node id='379' label='Materialen zum 8. Jugendbericht' />
+    <node id='378' label='Materiale Soziologie' />
+    <node id='681' label='Materialien aus Hochschule und Forschung' />
+    <node id='380' label='Materialien / Berlin-Brandenburgische Akademie der Wissenschaften, Interdisziplinäre Arbeitsgruppe Zukunftsorientierte Nutzung ländlicher Räume' />
+    <node id='751' label='Materialien zur Bevölkerungsstatistik' />
+    <node id='381' label='Materialien zur Bevölkerungswissenschaft' />
+    <node id='382' label='Materialien zur historischen Sozialwissenschaft' />
+    <node id='944' label='Media and Communication' />
+    <node id='942' label='Media, Democracy &amp; Political Process Series' />
+    <node id='383' label='MediaMatters' />
+    <node id='384' label='Medizin und Gesellschaft' />
+    <node id='385' label='Meertens Ethnology Cahiers' />
+    <node id='386' label='Member Organisation Fora' />
+    <node id='653' label='Miteinander leben in Berlin' />
+    <node id='389' label='Mitteilungen des Instituts für Asienkunde Hamburg' />
+    <node id='387' label='Mitteilungen , Sonderheft / Universität München, Sonderforschungsbereich 333' />
+    <node id='388' label='Mitteilungen / Verbund Sozialwissenschaftliche Technikforschung' />
+    <node id='844' label='"Mitte"-Studien der Universität Leipzig' />
+    <node id='390' label='Modellprogramm Seniorenbüro' />
+    <node id='391' label='Modernisierung des öffentlichen Sektors' />
+    <node id='393' label='Monographien aus dem Deutschen Institut für Japanstudien der Philipp-Franz-von-Siebold-Stiftung' />
+    <node id='392' label='Monographien Linguistik und Kommunikationswissenschaft' />
+    <node id='394' label='Monographien: Sozialwissenschaftliche Methoden' />
+    <node id='395' label='Monographien: Wissenschaftstheorie und Grundlagenforschung' />
+    <node id='793' label='MPIA Working Paper' />
+    <node id='372' label='MPIfG Discussion Paper' />
+    <node id='373' label='MPIfG Working Paper' />
+    <node id='396' label='Münchener philosophische Studien ' />
+    <node id='397' label='Münchner Beiträge zur Soziologie der industriellen Gesellschaft' />
+    <node id='398' label='Münchner Beiträge zur Volkskunde' />
+    <node id='399' label='Münchner Studien zur Kultur- und Sozialpsychologie' />
+    <node id='763' label='Münsteraner Diskussionspapiere zum Nonprofit-Sektor' />
+    <node id='821' label='Münsteraner Diskussionspapiere zum Nonprofit-Sektor , Sonderband' />
+    <node id='803' label='MvB Agenda' />
+    <node id='840' label='MvB Working paper' />
+    <node id='938' label='MV-Wissenschaft' />
+    <node id='400' label='NESSE Analytical Report' />
+    <node id='403' label='Netzbürger' />
+    <node id='404' label='Neue Analysen zu Staat, Recht und Politik. Serie A: Sammelbände und Monographien' />
+    <node id='405' label='Neue Praxis Zeitschrift für Sozialarbeit, Sozialpädagogik und Sozialpolitik' />
+    <node id='799' label='Neuere Medizin- und Wissenschaftsgeschichte : Quellen und Studien' />
+    <node id='406' label='Neue Schriftenreihe der Arbeitsgemeinschaft für Erziehungshilfe (AFET) e.V.' />
+    <node id='407' label='New Approaches to Conflict Analysis' />
+    <node id='408' label='New directions in cultural analysis' />
+    <node id='730' label='New Issues in Refugee Research' />
+    <node id='409' label='News' />
+    <node id='411' label='Newsletter des AGSÖ' />
+    <node id='410' label='Newsletter Wegweiser Bürgergesellschaft' />
+    <node id='401' label='NICIS' />
+    <node id='412' label='Norm und Struktur' />
+    <node id='402' label='NORRAG News' />
+    <node id='413' label='Nürnberger Beiträge zur Sozial- und Wirtschaftsforschung' />
+    <node id='694' label='Nürnberger Edition zum Internationalen Management' />
+    <node id='414' label='Observador On-line' />
+    <node id='812' label='ÖIF Materialien' />
+    <node id='415' label='Onati international series in law and society' />
+    <node id='416' label='Opuscula' />
+    <node id='822' label='Orations of Enea Silvio Piccolomini (Pius 2)' />
+    <node id='704' label='Organisationsökonomie humaner Dienstleistungen' />
+    <node id='441' label='Pädagogik &amp; Sozialwissenschaften' />
+    <node id='442' label='Pädagogische Beiträge zur sozialen und kulturellen Entwicklung' />
+    <node id='418' label='Palimpsest: Disorientations' />
+    <node id='420' label='Passagen Philosophie' />
+    <node id='419' label='Passagen &amp; Transzendenzen' />
+    <node id='421' label='Pazifik Forum' />
+    <node id='945' label='Pegel Köln' />
+    <node id='796' label='PEP Working Paper' />
+    <node id='422' label='Peripherie : Zeitschrift für Politik und Ökonomie in der Dritten Welt, Sonderband' />
+    <node id='423' label='Perspectives of democratization' />
+    <node id='744' label='Perspektive Berufsabschluss' />
+    <node id='685' label='Perspektive Praxis' />
+    <node id='424' label='Philosophicum Lech' />
+    <node id='425' label='Philosophie und Wissenschaft : transdisziplinäre Studien' />
+    <node id='806' label='PIPE - Papers on International Political Economy' />
+    <node id='794' label='PMMA Working Paper' />
+    <node id='652' label='Policy Paper / Deutsches Institut für Menschenrechte' />
+    <node id='933' label='Policy Paper / Jacques Delors Institute' />
+    <node id='879' label='Policy Paper / Österreichisches Institut für Internationale Politik' />
+    <node id='837' label='Political Attitudes and Mentalities' />
+    <node id='426' label='Politics Today' />
+    <node id='427' label='Politik Ret &amp; Samfund' />
+    <node id='732' label='Politik und Milieu: Wahl- und Elitenforschung im historischen und interkulturellen Vergleich' />
+    <node id='428' label='Politikwissenschaftliche Perspektiven' />
+    <node id='909' label='Politische Studien Sonderausgabe' />
+    <node id='429' label='Position Paper from the ARL' />
+    <node id='430' label='Positionspapier aus der ARL' />
+    <node id='431' label='Pragmatics and Beyond' />
+    <node id='437' label='Prämierte Arbeiten' />
+    <node id='935' label='Praxis Kultur- und Sozialgeographie' />
+    <node id='891' label='Praxis Sozialforschung' />
+    <node id='432' label='Praxis und Forschung: Schriftenreihe des Fachbereichs Sozialwesen der Fachhochschule Münster' />
+    <node id='417' label='PRIF Reports' />
+    <node id='871' label='PRIF Working Papers' />
+    <node id='434' label='Proceedings e report' />
+    <node id='435' label='Proceedings of OeNB Workshops' />
+    <node id='690' label='Profession' />
+    <node id='436' label='Professur für Quantitative Methoden - Uni Mannheim/ Publications/ Articles' />
+    <node id='433' label='ProTOPIA' />
+    <node id='438' label='Psychologie Forschung' />
+    <node id='439' label='Psychologie und Gesellschaft' />
+    <node id='440' label='Publications of the Japanese German Center Berlin : Ser. 3' />
+    <node id='443' label='Q-Serie' />
+    <node id='752' label='Qualifizierungsberatung in KMU - Förderung systematischer Personalentwicklung' />
+    <node id='445' label='Qualitative psychology nexus' />
+    <node id='446' label='Qualitätsmanagement' />
+    <node id='444' label='QUEM-report : Schriften zur beruflichen Weiterbildung' />
+    <node id='878' label='Rat für Sozial- und Wirtschaftsdaten (RatSWD)' />
+    <node id='877' label='Rat für Sozial- und Wirtschaftsdaten (RatSWD) ' />
+    <node id='898' label='RatSWD Research Notes' />
+    <node id='876' label='RatSWD Working Paper Series' />
+    <node id='447' label='RAXEN Report / European Monitoring Centre on Racism and Xenophobia, National Focal Point Germany' />
+    <node id='451' label='Recent research in psychology' />
+    <node id='453' label='Recherches &amp; Documents' />
+    <node id='452' label='Recherche Spezial' />
+    <node id='454' label='Rechtspolitisches Forum' />
+    <node id='448' label='RECOUP Policy Brief' />
+    <node id='449' label='RECOUP Working Papers' />
+    <node id='716' label='Regenbogen-Philanthropie' />
+    <node id='881' label='REGINA - Arbeitspapier' />
+    <node id='456' label='Reihe Campus' />
+    <node id='461' label='Reihe der Hans-Böckler-Stiftung Wissenschaft im Arbeitnehmerinteresse' />
+    <node id='457' label='Reihe Forschung : Erziehungswissenschaft' />
+    <node id='458' label='Reihe Politikwissenschaft / Institut für Höhere Studien, Abt. Politikwissenschaft' />
+    <node id='797' label='Reihe revolution revisited' />
+    <node id='455' label='Reihe Sozialstrukturanalyse' />
+    <node id='459' label='Reihe Sozialwissenschaften' />
+    <node id='460' label='Reihe Soziologie / Institut für Höhere Studien, Abt. Soziologie' />
+    <node id='462' label='Religion and Culture in the Middle Ages' />
+    <node id='463' label='Religion and Discourse' />
+    <node id='828' label='Religion and Transformation in Contemporary European Society' />
+    <node id='767' label='Report Altersdaten' />
+    <node id='915' label='Report / Österreichisches Institut für Internationale Politik' />
+    <node id='862' label='Research contributions to organizational sociology and innovation studies / Stuttgarter Beiträge zur Organisations- und Innovationssoziologie : SOI discussion paper' />
+    <node id='700' label='Research on cases and theories' />
+    <node id='464' label='Research report from the Department of Sociology, Göteborg University' />
+    <node id='929' label='Research Report Series Peace and Conflict Studies' />
+    <node id='792' label='Research Report / Technische Universität Hamburg-Harburg, Institut für Technik und Gesellschaft' />
+    <node id='855' label='Revista Crítica de Historia de las Relaciones Laborales y de la Política Social' />
+    <node id='450' label='RISP-Texte' />
+    <node id='817' label='Rokkan working papers' />
+    <node id='465' label='Rororo: Rowohlts Enzyklopädie' />
+    <node id='633' label='rororo-Studium : Sozialwissenschaft' />
+    <node id='466' label='Routledge Contemporary China Series' />
+    <node id='467' label='Routledge Contemporary South Asia Series' />
+    <node id='472' label='Routledge/GARNET series' />
+    <node id='468' label='Routledge Global Security Studies' />
+    <node id='471' label='Routledge studies in international business and the world economy' />
+    <node id='469' label='Routledge Studies in Liberty and Security' />
+    <node id='470' label='Routledge Studies in the History of Economics' />
+    <node id='473' label='Rowohlts Enzyklopädie' />
+    <node id='474' label='Rulers and Elites' />
+    <node id='707' label='RWI Projektbericht' />
+    <node id='779' label='Saarbrücker Schriften zur Informationswissenschaft' />
+    <node id='480' label='Salzburger Beiträge zur Volkskunde' />
+    <node id='475' label='SAMF-Arbeitspapier' />
+    <node id='481' label='Sammlung Göschen' />
+    <node id='482' label='Sammlung kritisches wissen' />
+    <node id='476' label='SCHIFF-texte' />
+    <node id='483' label='Schriften aus dem Max-Planck-Institut für Gesellschaftsforschung' />
+    <node id='484' label='Schriften der Deutschen Vereinigung für Sportwissenschaft' />
+    <node id='485' label='Schriften der Kommission für wirtschaftlichen und sozialen Wandel' />
+    <node id='657' label='Schriften des Deutschen Hygiene-Museums Dresden' />
+    <node id='952' label='Schriften des Forschungszentrums Jülich' />
+    <node id='486' label='Schriften des Heidelberger Instituts für Interdisziplinäre Frauen- und Geschlechterforschung (HIFI) e.V.' />
+    <node id='487' label='Schriften des Otto-Stammer-Zentrums im Otto-Suhr-Institut der Freien Universität Berlin' />
+    <node id='932' label='Schriftenreihe der Arbeitsgemeinschaft Sozialwissenschaftlicher Institute (ASI)' />
+    <node id='496' label='Schriftenreihe der Bundesanstalt für Arbeitsschutz: Forschung' />
+    <node id='497' label='Schriftenreihe der Bundesanstalt für Arbeitsschutz: Forschungsanwendung' />
+    <node id='729' label='Schriftenreihe der Deutschen Gesellschaft für Geschichte der Nervenheilkunde' />
+    <node id='498' label='Schriftenreihe der DGfE' />
+    <node id='499' label='Schriftenreihe der Forschungsgruppe Große technische Systeme des Forschungsschwerpunkts Technik - Arbeit - Umwelt am Wissenschaftszentrum Berlin für Sozialforschung' />
+    <node id='500' label='Schriftenreihe der Otto-Brenner-Stiftung' />
+    <node id='810' label='Schriftenreihe des Arbeitskreises Europäische Integration' />
+    <node id='954' label='Schriftenreihe des Beziehungs- und Familienpanels (pairfam)' />
+    <node id='501' label='Schriftenreihe des Bundesinstituts für Sportwissenschaft' />
+    <node id='502' label='Schriftenreihe des Bundesministeriums für Familie, Senioren, Frauen und Jugend' />
+    <node id='503' label='Schriftenreihe des Deutschen Bundesjugendrings' />
+    <node id='504' label='Schriftenreihe des Freiburger Instituts für angewandte Sozialwissenschaft e.V. (FIFAS)' />
+    <node id='505' label='Schriftenreihe des Instituts für Sozialwissenschaften der Universität Stuttgart -SISS-' />
+    <node id='724' label='Schriftenreihe des Landtags Rheinland-Pfalz' />
+    <node id='506' label='Schriftenreihe des Verbandes Wiener Volksbildung' />
+    <node id='507' label='Schriftenreihe des Zentrums für Europäische Rechtspolitik an der Universität Bremen (ZERP)' />
+    <node id='494' label='Schriftenreihe Forum der Bundesstatistik' />
+    <node id='698' label='Schriftenreihe für Wirtschafts- und Unternehmensethik' />
+    <node id='495' label='Schriftenreihe Gesellschaftswissenschaften - Praxis' />
+    <node id='493' label='Schriftenreihe Humanisierung des Arbeitslebens' />
+    <node id='688' label='Schriftenreihe Industrielle Beziehungen' />
+    <node id='885' label='Schriftenreihe Interdisziplinäre Organisations- und Verwaltungsforschung' />
+    <node id='703' label='Schriftenreihe Organisation und Personal' />
+    <node id='508' label='Schriftenreihe zur Gesundheitsförderung' />
+    <node id='695' label='Schriften zum Management' />
+    <node id='488' label='Schriften zur Berufsbildungsforschung' />
+    <node id='489' label='Schriften zur Informationswissenschaft' />
+    <node id='490' label='Schriften zur Kultursoziologie' />
+    <node id='492' label='Schriften zur öffentlichen Verwaltung und öffentlichen Wirtschaft' />
+    <node id='491' label='Schriften zur Rechtspolitologie' />
+    <node id='509' label='Scienta Nova' />
+    <node id='857' label='SDM Survey Guidelines' />
+    <node id='813' label='Security Informatics' />
+    <node id='672' label='SEESHOP6 Yearbook' />
+    <node id='946' label='Selected Student Papers' />
+    <node id='951' label='Selected Term Paper' />
+    <node id='784' label='SEU Working Papers' />
+    <node id='937' label='SFB-Governance Working Paper Series' />
+    <node id='634' label='sfs Beiträge aus der Forschung' />
+    <node id='510' label='Social indicators research series' />
+    <node id='800' label='SocialWorld - Working Paper' />
+    <node id='511' label='Sociedades africanas' />
+    <node id='512' label='Socio-Economics Series' />
+    <node id='513' label='Sociologické studie/Sociological Studies' />
+    <node id='710' label='soeb-Arbeitspapier' />
+    <node id='758' label='sofia-Diskussionsbeiträge zur Institutionenanalyse' />
+    <node id='766' label='sofia-Studien zur Institutionenanalyse' />
+    <node id='777' label='sofia-Studien zur interdisziplinären Institutionenanalyse' />
+    <node id='925' label='SOFI-Forschungsbericht' />
+    <node id='477' label='SOFI Working Paper' />
+    <node id='514' label='Solidariteit en Identiteit' />
+    <node id='515' label='Solidarity and Identity' />
+    <node id='516' label='Sonderveröffentlichung / BIOst' />
+    <node id='517' label='South-Easterrn European Administrative Studies' />
+    <node id='518' label='Soziale Welt , Sonderband' />
+    <node id='519' label='Sozialpolitik in Diskussion' />
+    <node id='888' label='Sozialpolitische Studienreihe' />
+    <node id='520' label='Sozialtheorie' />
+    <node id='521' label='Sozialwissenschaftliche Abhandlungen der Görres-Gesellschaft' />
+    <node id='522' label='Sozialwissenschaftliche Materialen' />
+    <node id='523' label='Sozialwissenschaftliche Tagungsberichte' />
+    <node id='749' label='Soziologie' />
+    <node id='524' label='Soziologie der Politik' />
+    <node id='689' label='Soziologie des Managements und der betrieblichen Modernisierung' />
+    <node id='525' label='Soziologie: Forschung und Wissenschaft' />
+    <node id='526' label='Soziologische Arbeitspapiere' />
+    <node id='527' label='Soziologische Erklärung, Modellbildung, Simulation' />
+    <node id='528' label='Soziologische Studien' />
+    <node id='529' label='Soziologische Texte : N.F.' />
+    <node id='530' label='Sozioökonomische Daten und Analysen für die Bundesrepublik Deutschland' />
+    <node id='850' label='SPES Policy Papers' />
+    <node id='531' label='Sport - Spiele - Kämpfe: Studien zur Historischen Anthropologie und zur Philosophie des Sports' />
+    <node id='839' label='Stadtforschung und Statistik / Themenbuch' />
+    <node id='838' label='Stadtforschung und Statisti / Themenbuch' />
+    <node id='856' label='Standortbestimmungen Gesundheitsberufe' />
+    <node id='532' label='Statistik und Wissenschaft' />
+    <node id='533' label='Stauffenburg Festschriften' />
+    <node id='670' label='Stimmen der Zeit' />
+    <node id='534' label='Strategische Kultur Europas' />
+    <node id='535' label='Strumenti per la didattica e la ricerca' />
+    <node id='647' label='Studie / Deutsches Institut für Menschenrechte' />
+    <node id='542' label='Studienreihe des Instituts für Sozialforschung Frankfurt am Main' />
+    <node id='537' label='Studien und Materialien zum Straf- und Maßregelvollzug' />
+    <node id='852' label='Studien zum deutschen Innovationssystem' />
+    <node id='541' label='Studien zur Österreichischen Philosophie' />
+    <node id='538' label='Studien zur Sozialwissenschaft' />
+    <node id='539' label='Studien zur Soziologie der Politikwissenschaft' />
+    <node id='540' label='Studien zur Wahl- und Einstellungsforschung' />
+    <node id='536' label='Studi e saggi' />
+    <node id='543' label='Studies in 20th and 21st Century European History' />
+    <node id='544' label='Studies in Fuzziness and Soft Computing' />
+    <node id='546' label='Studies in health technology and informatics' />
+    <node id='545' label='Studies in Imperialsim' />
+    <node id='712' label='Studies on Internal Displacement' />
+    <node id='547' label='Studies over politieke vernieuwing' />
+    <node id='548' label='Stuttgarter Beiträge zur Organisations- und Innovationsforschung - SOI Discussion Paper' />
+    <node id='549' label='Stuttgarter Beiträge zur Organisations- und Innovationssoziologie' />
+    <node id='635' label='suhrkamp taschenbuch wissenschaft' />
+    <node id='550' label='Suhrkamp-Taschenbuch Wissenschaft' />
+    <node id='478' label='SUNY series in radical social and political theory' />
+    <node id='551' label='Sustainable Governance Discussion Paper' />
+    <node id='947' label='swisspeace Working Paper' />
+    <node id='755' label='SWP-Aktuell' />
+    <node id='756' label='SWP Comments' />
+    <node id='804' label='SWP Research Paper' />
+    <node id='479' label='SWP-Studie' />
+    <node id='786' label='SWP-Zeitschriftenschau' />
+    <node id='552' label='Symposien des Hans-Bredow-Instituts' />
+    <node id='554' label='Synthese liberary' />
+    <node id='553' label='Synthes Libary' />
+    <node id='697' label='Systemische Organisationsberatung und Aktionsforschung' />
+    <node id='557' label='Tagungsberichte' />
+    <node id='558' label='Tagungsberichte / GESIS-IZ Sozialwissenschaften' />
+    <node id='559' label='Tagungsberichte / Informationszentrum Sozialwissenschaften' />
+    <node id='912' label='Tallinn University Dissertations on Social Sciences' />
+    <node id='560' label='Technical University Technology Studies : Working Papers' />
+    <node id='562' label='Technikbewertung und -gestaltung Research Reports' />
+    <node id='561' label='Technik- und Wissenschaftsforschung' />
+    <node id='858' label='TEPSA Policy Paper' />
+    <node id='771' label='Texte aus dem SI' />
+    <node id='563' label='Texte / Rosa-Luxemburg-Stiftung' />
+    <node id='564' label='Texte zur politischen Theorie und Praxis' />
+    <node id='565' label='Texts in Logic and Games' />
+    <node id='568' label='The labour governments 1964-70' />
+    <node id='566' label='The Labour Party and the world' />
+    <node id='569' label='Theorie und Methode : Sozialwissenschaften' />
+    <node id='816' label='Theorie und Praxis der Erwachsenenbildung: Forschung' />
+    <node id='567' label='The Plenum series on stress and coping' />
+    <node id='934' label='Thesenpapiere des KVF NRW' />
+    <node id='636' label='transblick' />
+    <node id='571' label='Transfer - Information zum Verbundvorhaben' />
+    <node id='572' label='Transpekte: Transdisziplinäre Perspektiven der Sozial- und Kulturwissenschaften' />
+    <node id='573' label='Transpose Working Paper' />
+    <node id='570' label='TranState Working Papers' />
+    <node id='699' label='Trierer Beiträge zum Diversity Management' />
+    <node id='895' label='TTN Edition' />
+    <node id='574' label='Tübinger Schriften und Materialien zur Kriminologie' />
+    <node id='555' label='TUTS - Working Papers' />
+    <node id='556' label='TZI-Bericht' />
+    <node id='637' label='Übergänge: Texte und Studien zu Handlung, Sprache und Lebenswelt' />
+    <node id='737' label='UFZ Discussion Papers' />
+    <node id='575' label='Umbrüche der Moderne : Arbeit - Staat - Kultur' />
+    <node id='576' label='Understanding Politics' />
+    <node id='577' label='Unser Dienst ' />
+    <node id='578' label='Verhandelingen van het Koninklijk Instituut voor Taal-, Land- en Volkenkunde' />
+    <node id='583' label='Veröffentlichung aus dem Förderschwerpunkt Demographischer Wandel' />
+    <node id='584' label='Veröffentlichung aus dem Verbund Arbeits- und Innovationspotentiale im Wandel' />
+    <node id='585' label='Veröffentlichung des Arbeitskreises &apos;Wahlen und politische Einstellungen&apos; der Deutschen Vereinigung für Politische Wissenschaft (DVPW)' />
+    <node id='586' label='Veröffentlichung des Ludwig Boltzmann-Institutes für Geschichte der Gesellschaftswissenschaften' />
+    <node id='587' label='Veröffentlichung des Ludwig-Boltzmann-Instituts für Geschichte der Arbeiterbewegung' />
+    <node id='588' label='Veröffentlichungen aus dem Institut für Sozialwissenschaftliche Forschung e.V., ISF München' />
+    <node id='589' label='Veröffentlichungen der Hochschule St. Gallen für Wirtschafts- und Sozialwissenschaften : Schriftenreihe Kulturwissenschaft' />
+    <node id='687' label='Veröffentlichungen der Vereinigung der Deutschen Staatsrechtslehrer' />
+    <node id='590' label='Veröffentlichungen des Instituts Wiener Kreis' />
+    <node id='579' label='Veröffentlichung / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Sozialer Wandel, Institutionen und Vermittlungsprozesse, Abteilung Institutionen und sozialer Wandel' />
+    <node id='581' label='Veröffentlichung / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Sozialer Wandel, Institutionen und Vermittlungsprozesse, Abteilung Öffentlichkeit und soziale Bewegungen' />
+    <node id='580' label='Veröffentlichung / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Sozialer Wandel, Institutionen und Vermittlungsprozesse, Abteilung Sozialstruktur und Sozialberichterstattung' />
+    <node id='582' label='Veröffentlichung / Wissenschaftszentrum Berlin für Sozialforschung, Forschungsschwerpunkt Technik - Arbeit - Umwelt, Forschungsgruppe Transformation und Globalisierung' />
+    <node id='728' label='Voisinages Européens' />
+    <node id='604' label='Werkstattberichte des Forschungsschwerpunkts Arbeit und Bildung' />
+    <node id='603' label='Werkstattbericht / ProIT - Fachkräfte für Hessen' />
+    <node id='605' label='Wiener Beiträge zur Ethnologie und Anthropologie' />
+    <node id='591' label='WIP Working Paper' />
+    <node id='606' label='Wirtschaftswissenschaftliche Beiträge / Universität Würzburg, Lehrstuhl für Volkswirtschaftslehre, insb. Wirtschaftsordnung und Sozialpolitik' />
+    <node id='682' label='Wirtschaft und Bildung' />
+    <node id='592' label='WISO Diskurs: Expertisen und Dokumentationen zur Wirtschafts- und Sozialpolitik' />
+    <node id='718' label='Wissenschaftliche Diskussionspapiere / Bundesinstitut für Berufsbildung' />
+    <node id='607' label='Wissenschaftliche Reihe' />
+    <node id='608' label='Wissenschaftliche Schriftenreihe Psychologie' />
+    <node id='609' label='Wissenschaftliche Schriftenreihe Soziologie' />
+    <node id='610' label='Wissenschaftstheorie, Wissenschaft und Philosophie' />
+    <node id='884' label='Wissenschaft &amp; Umwelt Interdisziplinär' />
+    <node id='611' label='Working Brief' />
+    <node id='612' label='Working Paper' />
+    <node id='831' label='Working Paper / Center for Political Theory &amp; History of Political Ideas' />
+    <node id='614' label='Working Paper der Forschungsgruppe des Bundesamtes' />
+    <node id='769' label='Working Paper der Forschungsgruppe des Bundesamtes für Migration und Flüchtlinge' />
+    <node id='615' label='Working Paper der Nationalen Kontaktstelle des EMN und der Forschungsgruppe des Bundesamtes' />
+    <node id='809' label='Workingpaper des Soziologischen Seminars' />
+    <node id='747' label='Working Paper for EUROHOME-IMPACT Project: Synthesis Report' />
+    <node id='760' label='Working Paper / Österreichisches Institut für Familienforschung' />
+    <node id='901' label='Working Paper / Österreichisches Institut für Internationale Politik' />
+    <node id='926' label='Working Papers des KVF NRW' />
+    <node id='620' label='Working Papers: Economic Sociology Jena' />
+    <node id='613' label='Working Paper Series of the Research Network 1989' />
+    <node id='906' label='Working Papers in Development Sociology and Social Anthropology' />
+    <node id='740' label='Working Papers Institute of International Business University of Gdansk' />
+    <node id='617' label='Working Papers kultur- und techniksoziologische Studien' />
+    <node id='618' label='Working Papers of Hungarian Europe Society' />
+    <node id='619' label='Working Papers on the Reconciliation of Work and Welfare in Europe' />
+    <node id='616' label='Working Papers / Universität Bielefeld, Institut für Weltgesellschaft' />
+    <node id='833' label='Working Paper / Universität Bamberg, Professur für Arbeitswissenschaft' />
+    <node id='907' label='Working Paper / Universität Bielefeld, Fakultät für Soziologie, Forschungsschwerpunkt Entwicklungssoziologie' />
+    <node id='593' label='WRR Rapporten' />
+    <node id='596' label='WRR-Report' />
+    <node id='594' label='WRR Verkenningen' />
+    <node id='595' label='WRR Webpublicaties' />
+    <node id='597' label='WSI-Diskussionspapier' />
+    <node id='598' label='WZB-Mitteilungen' />
+    <node id='600' label='WZBrief Arbeit' />
+    <node id='601' label='WZBrief Bildung' />
+    <node id='602' label='WZBrief Zivilengagement' />
+    <node id='599' label='WZB-Vorlesungen' />
+    <node id='680' label='ZEF Development Studies' />
+    <node id='679' label='ZEF Working Paper Series' />
+    <node id='890' label='Zeitschrift für Personalforschung , Sonderheft' />
+    <node id='621' label='ZELTForum - Göttinger  Schriften zu Landschaftsinterpretation und Tourismus' />
+    <node id='693' label='Zentrum und Peripherie' />
+    <node id='827' label='ZERP-Diskussionspapier' />
+    <node id='626' label='ZeS-Arbeitspapier' />
+    <node id='830' label='ZiGprint' />
+    <node id='894' label='ZMO Programmatic Texts' />
+    <node id='677' label='ZMO Working Papers' />
+    <node id='627' label='ZÖSS Discussion Paper' />
+    <node id='715' label='Zukunftsforum Politik' />
+    <node id='622' label='ZUMA-Arbeitsbericht' />
+    <node id='623' label='ZUMA-Methodenbericht' />
+    <node id='624' label='ZUMA-Publikationen' />
+    <node id='643' label='ZUMA-Technischer Bericht' />
+    <node id='625' label='ZWE Arbeit und Region Bremen - HBS-Manuskripte' />
+  </isComposedBy>
+</node>

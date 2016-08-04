@@ -1,0 +1,53 @@
+<fop version="1.0">
+
+  <!-- Strict user configuration -->
+  <strict-configuration>true</strict-configuration>
+
+  <!-- Strict FO validation -->
+  <strict-validation>true</strict-validation>
+
+  <!-- Base URL for resolving relative URLs -->
+  <base>${ssoar.frontpage.xslt}</base>
+
+  <!-- Font Base URL for resolving relative font URLs -->
+  <font-base>${ssoar.frontpage.xslt}/fonts</font-base>
+  
+  <renderers>
+   <renderer mime="application/pdf">
+
+		<fonts>
+		<auto-detect/>
+			<font metrics-url="LT_55217-regular.xml"
+				embed-url="LT_55217.ttf"
+				kerning="yes">
+				<font-triplet name="LT_55217" style="normal" weight="normal" />
+			</font>
+			<font metrics-url="LT_55218-regular.xml"
+				embed-url="LT_55218.ttf"
+				kerning="yes">
+				<font-triplet name="LT_55218" style="normal" weight="normal" />
+			</font>
+			<font metrics-url="LT_55219-regular.xml"
+				embed-url="LT_55219.ttf"
+				kerning="yes">
+				<font-triplet name="LT_55219" style="normal" weight="normal" />
+			</font>
+		</fonts>
+        
+   </renderer>
+</renderers>
+
+  <!-- Source resolution in dpi (dots/pixels per inch) for determining the size of pixels in SVG and bitmap images, default: 72dpi -->
+  <source-resolution>72</source-resolution>
+  <!-- Target resolution in dpi (dots/pixels per inch) for specifying the target resolution for generated bitmaps, default: 72dpi -->
+  <target-resolution>72</target-resolution>
+
+  <!-- default page-height and page-width, in case
+       value is specified as auto -->
+  <default-page-settings height="11in" width="8.26in"/>
+
+  <!-- Use file name nl_Bel instead of the default nl_BE -->
+  <hyphenation-pattern lang="nl" country="BE">nl_Bel</hyphenation-pattern>
+
+  <!-- etc. etc..... -->
+</fop>

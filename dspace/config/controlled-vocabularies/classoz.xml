@@ -1,0 +1,163 @@
+<node id='thesoz' label=''>
+  <isComposedBy>
+    <node id='10212' label='Agrarsoziologie' />
+    <node id='30301' label='allgemeine Geschichte' />
+    <node id='10703' label='Allgemeine Psychologie' />
+    <node id='10201' label='Allgemeine Soziologie, Makrosoziologie, spezielle Theorien und Schulen, Entwicklung und Geschichte der Soziologie' />
+    <node id='10101' label='Allgemeines zu den Sozialwissenschaften, Entwicklung und Geschichte der Sozialwissenschaften' />
+    <node id='10301' label='Allgemeines, spezielle Theorien und Schulen, Methoden, Entwicklung und Geschichte der Demographie' />
+    <node id='10601' label='Allgemeines, spezielle Theorien und Schulen, Methoden, Entwicklung und Geschichte der Erziehungswissenschaft' />
+    <node id='10801' label='Allgemeines, spezielle Theorien und Schulen, Methoden, Entwicklung und Geschichte der Kommunikationswissenschaften' />
+    <node id='10501' label='Allgemeines, spezielle Theorien und Schulen, Methoden, Entwicklung und Geschichte der Politikwissenschaft' />
+    <node id='10701' label='Allgemeines, spezielle Theorien und Schulen, Methoden, Entwicklung und Geschichte der Psychologie' />
+    <node id='20601' label='Allgemeines, spezielle Theorien und Schulen, Methoden, Entwicklung und Geschichte der Sozialarbeit und Sozialpädagogik' />
+    <node id='11001' label='Allgemeines, spezielle Theorien und Schulen, Methoden, Entwicklung und Geschichte der Sozialpolitik' />
+    <node id='10901' label='Allgemeines, spezielle Theorien und Schulen, Methoden, Entwicklung und Geschichte der Wirtschaftswissenschaften' />
+    <node id='1080403' label='andere Medien' />
+    <node id='10709' label='angewandte Psychologie' />
+    <node id='20100' label='Arbeitsmarkt- und Berufsforschung' />
+    <node id='20101' label='Arbeitsmarktforschung' />
+    <node id='20103' label='Arbeitsmarktpolitik' />
+    <node id='11005' label='Arbeitswelt' />
+    <node id='10613' label='Beratungswesen' />
+    <node id='10612' label='Berechtigungswesen' />
+    <node id='20102' label='Berufsforschung' />
+    <node id='1090400' label='Betriebswirtschaftslehre' />
+    <node id='10303' label='Bevölkerung' />
+    <node id='10208' label='Bildungs- und Erziehungssoziologie' />
+    <node id='10609' label='Bildungswesen besonderer Schulformen' />
+    <node id='10605' label='Bildungswesen Elementarbereich' />
+    <node id='10606' label='Bildungswesen Primarbereich' />
+    <node id='10611' label='Bildungswesen quartärer Bereich, Berufsbildung' />
+    <node id='10607' label='Bildungswesen Sekundarstufe I' />
+    <node id='10608' label='Bildungswesen Sekundarstufe II' />
+    <node id='10610' label='Bildungswesen tertiärer Bereich' />
+    <node id='10300' label='Demographie, Bevölkerungswissenschaft' />
+    <node id='1080402' label='Druckmedien' />
+    <node id='11004' label='Einkommenspolitik, Lohnpolitik, Tarifpolitik, Vermögenspolitik' />
+    <node id='10211' label='Entwicklungsländersoziologie, Entwicklungssoziologie' />
+    <node id='10705' label='Entwicklungspsychologie' />
+    <node id='10105' label='Erhebungstechniken und Analysetechniken der Sozialwissenschaften' />
+    <node id='10600' label='Erziehungswissenschaft' />
+    <node id='10400' label='Ethnologie' />
+    <node id='10506' label='Europapolitik' />
+    <node id='11007' label='Familienpolitik, Jugendpolitik, Altenpolitik' />
+    <node id='10209' label='Familiensoziologie' />
+    <node id='1090406' label='Finanzwirtschaft, Rechnungswesen' />
+    <node id='10604' label='Forschung' />
+    <node id='10104' label='Forschungsarten der Sozialforschung' />
+    <node id='20200' label='Frauen- und Geschlechterforschung' />
+    <node id='20400' label='Freizeitforschung' />
+    <node id='10507' label='Friedens- und Konfliktforschung' />
+    <node id='30000' label='Geisteswissenschaften' />
+    <node id='10103' label='Generelle Theorien der Sozialwissenschaften' />
+    <node id='20300' label='Gerontologie' />
+    <node id='30300' label='Geschichte' />
+    <node id='11006' label='Gesundheitspolitik' />
+    <node id='10100' label='Grundlagen, Geschichte, generelle Theorien und Methoden der Sozialwissenschaften' />
+    <node id='10204' label='Industrie- und Betriebssoziologie, Arbeitssoziologie' />
+    <node id='1080501' label='Information und Dokumentation, Bibliotheken, Archive' />
+    <node id='1080502' label='Informationsmanagement, informationelle Prozesse, Informationsökonomie' />
+    <node id='1080500' label='Informationswissenschaft' />
+    <node id='1080404' label='interaktive, elektronische Medien' />
+    <node id='20000' label='Interdisziplinäre und angewandte Gebiete der Sozialwissenschaften' />
+    <node id='10505' label='internationale Beziehungen' />
+    <node id='10803' label='interpersonelle Kommunikation' />
+    <node id='10210' label='Jugendsoziologie' />
+    <node id='40102' label='Justiz' />
+    <node id='10217' label='Kommunikationssoziologie, Sprachsoziologie, Soziolinguistik' />
+    <node id='10800' label='Kommunikationswissenschaften' />
+    <node id='1080406' label='Kommunikatorforschung, Journalismus' />
+    <node id='10214' label='Kriminalsoziologie, Rechtssoziologie, Kriminologie' />
+    <node id='10216' label='Kultursoziologie, Kunstsoziologie' />
+    <node id='10302' label='Lehre und Studium, Professionalisierung und Ethik, Organisationen und Verbände der Demographie' />
+    <node id='10602' label='Lehre und Studium, Professionalisierung und Ethik, Organisationen und Verbände der Erziehungswissenschaft' />
+    <node id='10802' label='Lehre und Studium, Professionalisierung und Ethik, Organisationen und Verbände der Kommunikationswissenschaften' />
+    <node id='10502' label='Lehre und Studium, Professionalisierung und Ethik, Organisationen und Verbände der Politikwissenschaft' />
+    <node id='10702' label='Lehre und Studium, Professionalisierung und Ethik, Organisationen und Verbände der Psychologie' />
+    <node id='20602' label='Lehre und Studium, Professionalisierung und Ethik, Organisationen und Verbände der Sozialarbeit und Sozialpädagogik' />
+    <node id='11002' label='Lehre und Studium, Professionalisierung und Ethik, Organisationen und Verbände der Sozialpolitik' />
+    <node id='10202' label='Lehre und Studium, Professionalisierung und Ethik, Organisationen und Verbände der Soziologie' />
+    <node id='10902' label='Lehre und Studium, Professionalisierung und Ethik, Organisationen und Verbände der Wirtschaftswissenschaften' />
+    <node id='10615' label='Lehrende, Erziehende, Lernende' />
+    <node id='30200' label='Literaturwissenschaft, Sprachwissenschaft, Linguistik' />
+    <node id='10603' label='Makroebene des Bildungswesens' />
+    <node id='1090401' label='Management' />
+    <node id='1090405' label='Marketing' />
+    <node id='1080400' label='Massenkommunikation' />
+    <node id='1090403' label='Materialwirtschaft und Logistik' />
+    <node id='1080405' label='Medieninhalte, Aussagenforschung' />
+    <node id='1080412' label='Medienökonomie, Medientechnik' />
+    <node id='1080410' label='Medienpädagogik' />
+    <node id='1080411' label='Medienpolitik, Informationspolitik, Medienrecht' />
+    <node id='50100' label='Medizin, Sozialmedizin' />
+    <node id='10215' label='Medizinsoziologie' />
+    <node id='1080408' label='Meinungsforschung' />
+    <node id='10304' label='Migration' />
+    <node id='50200' label='Naturwissenschaften, Technik(wissenschaften), angewandte Wissenschaften' />
+    <node id='50000' label='Naturwissenschaften, Technik, Medizin' />
+    <node id='1090303' label='Öffentliche Finanzen und Finanzwissenschaft' />
+    <node id='20900' label='Ökologie und Umwelt' />
+    <node id='10207' label='Organisationssoziologie' />
+    <node id='1090402' label='Personalwesen' />
+    <node id='10704' label='Persönlichkeitspsychologie' />
+    <node id='30100' label='Philosophie, Theologie' />
+    <node id='10500' label='Politikwissenschaft' />
+    <node id='10504' label='politische Willensbildung, politische Soziologie' />
+    <node id='1090404' label='Produktion, Fertigung' />
+    <node id='10708' label='psychische Störungen, Behandlung und Prävention' />
+    <node id='10700' label='Psychologie' />
+    <node id='10707' label='psychologische Diagnostik und Beratung' />
+    <node id='20700' label='Raumplanung und Regionalforschung' />
+    <node id='40101' label='Recht' />
+    <node id='40100' label='Rechtswissenschaft' />
+    <node id='40000' label='Rechtswissenschaft und Verwaltungswissenschaft' />
+    <node id='10218' label='Religionssoziologie' />
+    <node id='1080401' label='Rundfunk, Telekommunikation' />
+    <node id='10213' label='Siedlungssoziologie' />
+    <node id='10616' label='Sonderbereiche der Pädagogik' />
+    <node id='10617' label='Sonderpädagogik' />
+    <node id='29900' label='sonstige Bereiche der angewandten Sozialwissenschaften' />
+    <node id='39900' label='sonstige Geisteswissenschaften' />
+    <node id='10199' label='Sonstiges zu den Sozialwissenschaften' />
+    <node id='10899' label='Sonstiges zu Kommunikationswissenschaften' />
+    <node id='10999' label='Sonstiges zu Wirtschaftswissenschaften' />
+    <node id='10399' label='Sonstiges zur Demographie' />
+    <node id='10699' label='Sonstiges zur Erziehungswissenschaft' />
+    <node id='10599' label='Sonstiges zur Politikwissenschaft' />
+    <node id='10799' label='Sonstiges zur Psychologie' />
+    <node id='20699' label='Sonstiges zur Sozialarbeit und Sozialpädagogik' />
+    <node id='11099' label='Sonstiges zur Sozialpolitik' />
+    <node id='10299' label='Sonstiges zur Soziologie' />
+    <node id='20600' label='Sozialarbeit und Sozialpädagogik' />
+    <node id='20500' label='soziale Probleme' />
+    <node id='11003' label='soziale Sicherung' />
+    <node id='30302' label='Sozialgeschichte, historische Sozialforschung' />
+    <node id='11000' label='Sozialpolitik' />
+    <node id='10706' label='Sozialpsychologie' />
+    <node id='20603' label='Sozialwesen, Sozialplanung, Sozialarbeit, Sozialpädagogik' />
+    <node id='10000' label='Sozialwissenschaften' />
+    <node id='10200' label='Soziologie' />
+    <node id='10203' label='Soziologie von Gesamtgesellschaften' />
+    <node id='10508' label='spezielle Ressortpolitik' />
+    <node id='10503' label='Staat, staatliche Organisationsformen' />
+    <node id='1080503' label='Szientometrie, Bibliometrie, Informetrie' />
+    <node id='20800' label='Technikfolgenabschätzung' />
+    <node id='10614' label='Unterricht, Didaktik' />
+    <node id='10206' label='Verkehrssoziologie' />
+    <node id='40200' label='Verwaltungswissenschaft' />
+    <node id='1090301' label='Volkswirtschaft' />
+    <node id='1090300' label='Volkswirtschaftslehre' />
+    <node id='1080409' label='Werbung, Public Relations, Öffentlichkeitsarbeit' />
+    <node id='1080407' label='Wirkungsforschung, Rezipientenforschung' />
+    <node id='10305' label='Wirtschafts- und Sozialgeographie' />
+    <node id='1090302' label='Wirtschaftspolitik' />
+    <node id='1090304' label='Wirtschaftssektoren' />
+    <node id='10205' label='Wirtschaftssoziologie' />
+    <node id='10905' label='Wirtschaftsstatistik, Ökonometrie, Wirtschaftsinformatik' />
+    <node id='10900' label='Wirtschaftswissenschaften' />
+    <node id='10220' label='Wissenschaftssoziologie, Wissenschafts- und Technikforschung' />
+    <node id='10102' label='Wissenschaftstheorie, Wissenschaftsphilosophie, Wissenschaftslogik, Ethik der Sozialwissenschaften' />
+    <node id='10219' label='Wissenssoziologie' />
+  </isComposedBy>
+</node>

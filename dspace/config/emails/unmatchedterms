@@ -1,0 +1,12 @@
+# UnmatchedTermsMail
+#
+# Parameters: {0} itemID
+#
+# See org.dspace.core.Email for information on the format of this file.
+#
+Subject: SSOAR: Dokument {0} - Fehler bei der Erkennung kontrollierter Felder
+
+Für das Dokument {0} konnten kontrollierte Felder nicht erkannt und automatisiert eingesetzt werden.
+
+Details befinden sich in der angehängten TXT-Datei.
+

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wf-config>
+    <workflow-map>
+        <name-map collection="default" workflow="ssoar"/>
+		<name-map collection="collection/9" workflow="internal"/>
+    </workflow-map>
+	
+	<!--SSOAR workflow step-->
+    <workflow start="ssoarjhoveinspectionstep" id="ssoar">
+        <roles>
+            <role id="editor" name="ssoar_editors" scope="repository" description="The people responsible for this step are able to edit the metadata of incoming submissions, and then accept or reject them."/>
+        </roles>
+		
+		<step id="ssoarjhoveinspectionstep" userSelectionMethod="noUserSelectionAction">		
+			<outcomes>
+                <step status="0">ssoarpdfsecurityandencryptionstep</step>
+            </outcomes>
+            <actions>
+                <action id="ssoarjhoveinspectionaction"/>
+            </actions>
+        </step>
+		
+		<step id="ssoarpdfsecurityandencryptionstep" userSelectionMethod="noUserSelectionAction">		
+			<outcomes>
+                <step status="0">ssoarocrvalidationstep</step>
+            </outcomes>
+            <actions>
+                <action id="ssoarpdfsecurityandencryptionaction"/>
+            </actions>
+        </step>	
+		<step id="ssoarocrvalidationstep" userSelectionMethod="noUserSelectionAction">		
+			<outcomes>
+                <step status="0">editstep</step>
+            </outcomes>
+            <actions>
+                <action id="ssoarocrvalidationaction"/>
+            </actions>
+        </step>	
+		
+        <!--<step id="finaleditstep" role="editor" userSelectionMethod="claimaction">		
+			<outcomes>
+                <step status="0">ssoaridentifierstep</step>
+            </outcomes>
+            <actions>
+                <action id="finaleditaction"/>
+            </actions>
+        </step>-->
+		
+		<step id="editstep" role="editor" userSelectionMethod="claimaction">
+            <outcomes>
+                <step status="0">ssoaridentifierstep</step>
+            </outcomes>
+            <actions>
+                <action id="editaction"/>
+            </actions>
+        </step>
+		
+		<step id="ssoaridentifierstep" userSelectionMethod="noUserSelectionAction">
+			<outcomes>
+                <step status="0">ssoarcollectionallocationstep</step>
+            </outcomes>		
+            <actions>
+                <action id="ssoaridentifieraction"/>
+            </actions>
+        </step>
+		
+		<step id="ssoarcollectionallocationstep" userSelectionMethod="noUserSelectionAction">
+			<outcomes>
+                <step status="0">urnregistrationstep</step>
+            </outcomes>		
+            <actions>
+                <action id="ssoarcollectionallocationaction"/>
+            </actions>
+        </step>
+		
+		<step id="urnregistrationstep" userSelectionMethod="noUserSelectionAction">
+			<outcomes>
+                <step status="0">ssoarlicenceactionstep</step>
+            </outcomes>		
+            <actions>
+                <action id="urnregistrationaction"/>
+            </actions>
+        </step>	
+		
+		<step id="ssoarlicenceactionstep" userSelectionMethod="noUserSelectionAction">			
+            <actions>
+                <action id="ssoarlicenceaction"/>
+            </actions>
+        </step>	
+    </workflow>
+	
+	<!--Internal workflow step-->
+    <workflow start="ssoaridentifierstep" id="internal">
+        <roles>            
+        </roles>	
+		
+		<step id="ssoaridentifierstep" userSelectionMethod="noUserSelectionAction">
+			<outcomes>
+                <step status="0">ssoarcollectionallocationstep</step>
+            </outcomes>		
+            <actions>
+                <action id="ssoaridentifieraction"/>
+            </actions>
+        </step>
+		
+		<step id="ssoarcollectionallocationstep" userSelectionMethod="noUserSelectionAction">
+			<outcomes>
+                <step status="0">urnregistrationstep</step>
+            </outcomes>		
+            <actions>
+                <action id="ssoarcollectionallocationaction"/>
+            </actions>
+        </step>
+		
+		<step id="urnregistrationstep" userSelectionMethod="noUserSelectionAction">
+			<outcomes>
+                <step status="0">ssoarlicenceactionstep</step>
+            </outcomes>		
+            <actions>
+                <action id="urnregistrationaction"/>
+            </actions>
+        </step>	
+		
+		<step id="ssoarlicenceactionstep" userSelectionMethod="noUserSelectionAction">			
+            <actions>
+                <action id="ssoarlicenceaction"/>
+            </actions>
+        </step>	
+    </workflow>
+
+</wf-config>
